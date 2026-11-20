@@ -19,7 +19,7 @@ Underneath both, the **people** are driven by a small on-device model that learn
 | [04 — Game structure](docs/04-game-structure.md) | Runs, scoring, hands, shop, Watch, winning, difficulty, progression |
 | [05 — Non-deterministic people](docs/05-non-deterministic-people-ai.md) | The people model, on-device training, open LLM options, iOS viability |
 
-Each doc ends with multiple-choice **Open questions** to settle next.
+Each doc ends with a **Decisions** table recording the choices settled so far.
 
 ## Status
 

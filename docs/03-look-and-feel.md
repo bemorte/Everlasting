@@ -12,6 +12,7 @@ Everlasting deliberately has **two visual languages**, one for each layer of pla
 | Changes over the run? | **No.** The Watch keeps one consistent, calm look so it stays readable. Only the *architecture on the map* advances with technology. | **Yes.** Every Dispensation brings a new style. Later, the people help choose it. |
 | Mood | Cozy, quiet, toy-like | Sacred, dramatic, ornate |
 | Camera | Top-down diorama, pinch to zoom, slight tilt | Card table framed by a manuscript page |
+| Orientation | **Landscape** | **Landscape** |
 
 ### The Watch: a living diorama
 
@@ -36,6 +37,8 @@ The same **structures and surfaces** every Dispensation: card frame, table, shop
 | 8 | The Fulness | Stained glass to modern print | Prismatic, then clean whites | Glass, paper, light |
 | E | Endless levels | Pure light, then three distinct glories | Silver → moon white → sun gold | Light itself |
 
+**Card faces:** common cards show the suit symbol, rank and the Dispensation's ornament frame. Only **rare cards** (and Godhood Powers) get full illustrations.
+
 **Familiar structures** means the card frame, suit symbols and layout never move. A player's hands learn the UI once; their eyes enjoy a new world each time.
 
 ### The four suits
@@ -53,7 +56,7 @@ From answer 3b: **the people in the sim can decide the style of the next Dispens
 
 - Each Dispensation has a **base style** (the table above).
 - During a Watch, the people's culture accumulates **style traits**: for example "loves geometry", "river people", "martial", "mourning", "prosperous", "scholarly".
-- At the next Revelation, those traits **modulate** the base style through a small set of controlled parameters: palette shift, ornament density, border motif set, typography weight, card-back pattern, ambient music layer.
+- At the next Revelation, those traits **modulate** the base style through a controlled set of parameters (decided: **medium** range): palette shift, ornament density and motif set, typography, card-back pattern, and ambient music layer. Styles never blend two Dispensations together.
 - The result: the same "The Law" Dispensation looks austere in one world and opulent in another, always within a hand-designed range.
 
 ## Sound
@@ -64,15 +67,14 @@ From answer 3b: **the people in the sim can decide the style of the next Dispens
 
 ## Platform and tech (3c: Apple platforms only)
 
-Targets: **iPhone and iPad first, Mac (native Apple silicon) second.** Apple TV and Vision Pro are out of scope for v1.
+Targets: **iPhone and iPad first, Mac (native Apple silicon) second**, played in **landscape**. Apple TV and Vision Pro are out of scope for v1.
 
 | Need | Choice | Why |
 |---|---|---|
 | Language | **Swift 6** | First-party, strict concurrency for the simulation thread |
 | App shell, menus, shop | **SwiftUI** | Fast iteration, native feel, built-in accessibility |
 | Card layer | **SwiftUI + Metal shaders** (`.layerEffect`, `.colorEffect`) | Foil, glow, paper and ink effects on cards; per-era styling as shader parameters |
-| Watch diorama | **RealityKit** (3D, tilt-shift via post-process) | Apple's current 3D engine on all target platforms. SceneKit is deprecated, so we avoid it |
-| Fallback for the Watch | **SpriteKit** with pre-rendered isometric layers | If RealityKit performance on older iPhones is weak |
+| Watch diorama | **To be decided by a one-week bake-off**: RealityKit (true 3D, tilt-shift post-process) vs SpriteKit (2.5D pre-rendered isometric layers) | Pick on frame rate on the oldest target iPhone, battery, and how cozy it feels. SceneKit is deprecated, so it is not a candidate |
 | Simulation core | **Pure Swift package** (`EverlastingCore`), no UI imports | Testable, deterministic, runs on Mac for fast tests and model training |
 | ML | **Core ML** for inference, **MLX Swift** for on-device training | See doc 05 |
 | Persistence | **SwiftData** for saves, plain files for Records and model weights | Simple and local |
@@ -84,7 +86,7 @@ Minimum OS: decide after the prototype; likely current iOS minus one.
 1. **Greybox (2–3 weeks).** Watch as flat 2D shapes, cards as plain rectangles with text. Prove the loop is fun before any art.
 2. **Style frames (parallel).** Paint one Revelation frame for Dispensations 1, 5 and 8, plus one Watch diorama shot. Lock the suit symbols and card frame.
 3. **Parametric style system.** Build the card renderer so palette, ornament set and typography are data. One Dispensation done end to end.
-4. **Diorama pass.** RealityKit scene with tilt-shift, time of day, and architecture tiers for three building types.
+4. **Diorama bake-off, then pass.** One week each prototyping the Watch in RealityKit and SpriteKit; pick one. Then build tilt-shift, time of day, and architecture tiers for three building types.
 5. **Remaining Dispensations.** Roll out the other styles as data plus asset packs.
 6. **People-driven style traits.** Wire culture traits into the style parameters.
 7. **Polish.** Sound, haptics, accessibility (Dynamic Type in menus, color-blind-safe suit shapes, reduced motion).
@@ -93,13 +95,11 @@ Minimum OS: decide after the prototype; likely current iOS minus one.
 
 ---
 
-## Open questions
+## Decisions (settled 2026-11-20)
 
-1. **Watch rendering**: commit now or prototype both?
-   A) RealityKit 3D diorama. B) SpriteKit 2.5D. C) Prototype both for one week, then pick.
-2. **Orientation**:
-   A) Portrait (one-handed, like Balatro mobile). B) Landscape (more map room). C) Watch in landscape, Revelation in portrait.
-3. **Card art**: what does each card face show?
-   A) Unique illustration per card. B) Suit symbol + era ornament, with illustrations only on rare cards. C) Procedural composition from shared motifs.
-4. **How far can people-driven styles go?**
-   A) Subtle (palette and ornament only). B) Medium (plus typography and card backs). C) Bold (can blend two Dispensations' styles).
+| # | Question | Decision |
+|---|---|---|
+| 1 | Watch rendering | **Prototype RealityKit and SpriteKit for one week each**, then pick on performance and feel |
+| 2 | Orientation | **Landscape** for the whole game |
+| 3 | Card faces | **Suit symbol + era ornament**; illustrations only on rare cards |
+| 4 | People-driven styles | **Medium**: palette, ornament, typography and card backs. No blending of two Dispensations |

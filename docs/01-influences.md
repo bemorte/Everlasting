@@ -44,8 +44,9 @@ The core design rule from 1a/1b: **in the Revelation you make point-in-turn choi
 ## Mini Motorways → the Watch layer's hands-on play
 
 **What we take**
-- **Routing.** Draw paths between settlements for prophets, scholars and traders to travel. Ideas move along routes; bad routing creates bottlenecks (unrest, isolation, heresy hotspots).
+- **Routing, kept light.** Tap two settlements to connect them, and prophets, scholars and traders travel the route. Ideas move along routes; missing or overloaded routes create bottlenecks (unrest, isolation, heresy hotspots). No tile-by-tile road drawing, so it stays comfortable on a phone.
 - **Escalating pressure over time.** The longer you stay in a Watch, the more settlements appear and the more demand piles up. This is the cost of lingering (from 4b).
+- **Leaving a Watch.** Every Watch lasts at least **one in-game year** (one full seasonal cycle). After that, you tap **Reveal Yourself** whenever you are ready to start the next Era.
 - **Limited weekly-style upgrades.** At intervals you pick one of two gifts (a temple, a school, a bridge, a granary).
 - **Minimal, calm visual language** for the sim (see [03-look-and-feel](03-look-and-feel.md)).
 
@@ -53,7 +54,7 @@ The core design rule from 1a/1b: **in the Revelation you make point-in-turn choi
 
 **What we take (1b: "B-ish")**
 - **Placing structures** that change how people nearby feel and behave: temples, schools, markets, libraries, hospitals, watchtowers, gardens.
-- **Per-person thought bubbles.** Tap a person to see a short thought ("I wish the river road was safer"). This is our main window into the non-deterministic people.
+- **Per-person thought bubbles.** Tap a person to see a single short thought ("I wish the river road was safer"). Deliberately just one line, no biography screen. This is our main window into the non-deterministic people.
 - **Upkeep and wear.** Structures decay or get corrupted if neglected.
 
 **What we skip**
@@ -88,13 +89,11 @@ The People model ◀── choices, beliefs, culture ── The Watch (sim)
 
 ---
 
-## Open questions
+## Decisions (settled 2026-11-20)
 
-1. **Tablets and Keys**: should we keep both consumable types, or merge them?
-   A) Keep both, like Balatro. B) Merge into one "Scroll" type. C) Keep Keys only; Tablet effects move into the Watch.
-2. **Watch length control**: how does the player end a Watch?
-   A) Tap "Reveal Yourself" whenever ready. B) Fixed minimum time, then free to leave. C) Watch ends automatically when pressure hits a threshold, unless you leave first.
-3. **Routing depth**: how hands-on is route drawing?
-   A) Full Mini Motorways style, limited route tiles. B) Light: connect cities with one tap. C) Automatic routes; you only place structures.
-4. **Person-level inspection**: how deep should tapping a person go?
-   A) Thought bubble only. B) Thought + belief + life history. C) Full biography with lineage across generations.
+| # | Question | Decision |
+|---|---|---|
+| 1 | Tablets and Keys | **Keep both**, like Balatro. Keys level up hand types; Tablets change, enhance or copy cards |
+| 2 | Ending a Watch | **Fixed minimum, then free.** Minimum is one in-game year (doc 04), then tap Reveal Yourself |
+| 3 | Routing depth | **Light, one-tap connections** between settlements |
+| 4 | Tapping a person | **Thought bubble only** |

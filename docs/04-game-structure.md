@@ -86,6 +86,10 @@ Each suit has a **Directness** value. Direct acts are powerful but cost belief-i
 
 Watch length also scales targets: each extra minute in the previous Watch adds a small percentage to the next target (see "Lingering" below).
 
+### Skipping an Era
+
+Before a **Morning or Noon** Era you may skip it (Trials can never be skipped). Skipping grants a reward tag (for example a free Pack, extra Light, or a free Key) but you **lose that Era's shop and its Watch**: fewer buildings, less culture, and no say for your people in the next style.
+
 ### Missing a target: Apostasy
 
 Failing to reach a target **does not end the run.** Instead:
@@ -146,7 +150,7 @@ After the shop, time flows on the world map.
 
 ### Lingering (4b)
 
-You can leave a Watch after 30 seconds, or stay as long as you like.
+Every Watch lasts at least **one in-game year** (one seasonal cycle). After that, tap Reveal Yourself whenever you like, or stay as long as you want.
 
 | Stay short | Stay long |
 |---|---|
@@ -178,24 +182,22 @@ Clearing all four with no Apostasy is the game's highest honor: *Worlds Without 
 
 1. **Within a run:** targets scale per Dispensation; Trials bend rules; Watch complexity grows with time.
 2. **Veils (stakes):** stacking tiers unlocked by winning. Example: Veil 2 = Trials give no Light; Veil 3 = Collapse decays slower; Veil 4 = Powers can be corrupted; … Veil 8 = the Records always play at full strength.
-3. **The Records (the real opponent):** the people model trained on your previous worlds gets more capable over time. Early runs face naive people who are easy to steer; later runs face people who anticipate your patterns. See doc 05.
+3. **The Records (the real opponent):** the people model trained on your previous worlds gets more capable over time. **The Records are permanent and lifelong: they cannot be reset or frozen.** Early runs face naive people who are easy to steer; later runs face people who anticipate your patterns. See doc 05.
 
 ## What carries between runs (4c)
 
 - **Unlocks, Balatro-style:** each Godhood Power, Covenant deck and Mantle has an unlock condition (for example "Win a run with Agency above +60" unlocks *Still Small Voice*). Once unlocked, it **enters the shop pool** and can be bought again in any future run.
 - **Veils:** highest Veil cleared per Covenant deck.
-- **The Records:** the trained people model and the Chronicle of every past world.
+- **The Records:** the trained people model, plus the Chronicle and Testament of every past world. One lifelong set per player, never reset.
 - **Collection:** a gallery of discovered cards, Powers, styles, crises and religions your people invented.
 
 ---
 
-## Open questions
+## Decisions (settled 2026-11-20)
 
-1. **Eras per Dispensation**: three Eras (Morning, Noon, Trial) or fewer?
-   A) Three, like Balatro blinds. B) Two (Era + Trial) for shorter runs. C) One Era per Dispensation, with longer hands.
-2. **Can Morning and Noon be skipped** (Balatro's skip-for-tag)?
-   A) Yes, skip for a reward and lose the Watch. B) No skipping. C) Skip only the Watch, never the Revelation.
-3. **Records difficulty control**: should players be able to reset or freeze their trained people?
-   A) Yes, a "New Creation" reset at any time. B) Only freeze, never reset. C) Neither; the Records are permanent.
-4. **Watch minimum time**:
-   A) 30 seconds. B) No minimum. C) One in-game year.
+| # | Question | Decision |
+|---|---|---|
+| 1 | Eras per Dispensation | **Three: Morning, Noon, Trial** |
+| 2 | Skipping | **Morning and Noon can be skipped for a reward**, losing that Era's shop and Watch |
+| 3 | Resetting the Records | **Neither reset nor freeze.** The Records are permanent |
+| 4 | Watch minimum | **One in-game year** |

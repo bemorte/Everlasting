@@ -30,7 +30,7 @@ The left column below is **internal reference only** (for the team and for Claud
 | Prophets and seers | **Witnesses** | Agents who receive your Reveal cards. They can be faithful, mistaken or corrupt. |
 | Priesthood keys | **Keys** | Consumables that permanently upgrade hand types (Balatro's planets). |
 | Temples, ordinances | **Temples**, **Rites** | Built in the Watch with Devotion. They raise Redemption and power the Spirit World level. |
-| Zion, a people of one heart | **A City of One Heart** | A rare emergent state. If a settlement reaches very high Joy, Truth and Agency at once, it can be **lifted**, giving a large bonus but removing it from the world map. |
+| Zion, a people of one heart | **A City of One Heart** | A rare emergent state. If a settlement reaches very high Joy, Truth and Agency at once, it can be **lifted**: it leaves the world map for good and grants a **permanent run-wide multiplier**. You lose your best city to gain a lasting reward. |
 | Spirit world, work for the dead | **The Spirit World** | Endless level 1. Everyone who died during the run returns; temples built earlier now matter. |
 | Three degrees of glory | **Telestial, Terrestrial, Celestial** | Endless levels 2–4, and the three tiers of final grading. |
 | Worlds without number | **Worlds** | Every run is a new world. Past worlds feed the Records. |
@@ -45,12 +45,17 @@ Each is a distinct visual style (doc 03) and a different set of world conditions
 |---|---|---|---|---|
 | 1 | **Dawn** | Adam | One small family-clan, a garden edge, stone tools | *The First Rivalry*: a feud between brothers splits the clan |
 | 2 | **The Walking City** | Enoch | Villages, first cities, early writing | *The Lifted City*: one settlement nears One Heart; the rest grow resentful |
-| 3 | **The Waters** | Noah | River empires, cruelty spreading | *The Deluge*: a cleansing catastrophe you can trigger or prevent, at great cost either way |
+| 3 | **The Waters** | Noah | River empires, cruelty spreading | *The Deluge*: an **optional** cleansing catastrophe. Triggering it purges corruption but costs heavy Agency and Joy |
 | 4 | **The Covenant** | Abraham | Nomads, kingdoms, idols | *The Altar*: a test where the people expect a sacrifice from you or from them |
 | 5 | **The Law** | Moses | Empires, slavery, written law | *The Wilderness*: a freed people wander; Command is strong but Agency bleeds |
 | 6 | **The Meridian** | Christ | Classical empires, philosophy, roads | *The Rejection*: your greatest Witness is turned on by the people |
-| 7 | **The Other Fold** | Lehi, scattered branches | Scattered civilizations on separate continents | *The Dwindling*: branches lose contact and records |
+| 7 | **Drawn from a pool** (see below) | varies | varies | varies |
 | 8 | **The Fulness** | Restoration, latter days | Industrial to modern, global networks | *The Last Crisis*: humanity's capacity to destroy itself peaks |
+
+**Dispensation 7 is drawn from a pool each run.** Launch pool:
+- **The Other Fold** (internal ref: Lehi, scattered branches). Scattered civilizations on separate continents. Trial: *The Dwindling*, where branches lose contact and records.
+- **The Great Apostasy** (internal ref: the long dark age). Truth decays across the world; religions harden into tradition. Trial: *The Long Night*, where Reveal cards are weakened until a Restoration is triggered.
+More entries can join the pool later, and the people model can weight which one appears based on the world's history.
 
 **The final crisis is procedural.** The Last Crisis draws from the world's own history. A science-forward world may face runaway technology; a high-Command world may face total tyranny; a low-Truth world may face mass nihilism; a war-torn world may face annihilation. The people model decides which threat is ripe (doc 05).
 
@@ -83,16 +88,15 @@ There is **no mandatory adversary NPC.** Opposition comes from three sources:
 
 - **No cutscenes.** The story is told through Witness visions (short card-flavor text), Chronicle entries written by the people ("In the third year of the river kings…"), and the final Record of your world.
 - **The Chronicle** is your world's history, written in the voice of its people. It is generated within strict templates (doc 05) and saved to the Records.
+- **The Testament.** Each run, your people write their own scripture: books attributed to their Witnesses, built from your Reveal plays, their doctrines and their Chronicle. Its accuracy reflects the world's Truth dial, so a corrupt world writes a corrupt scripture. It is readable at any time and kept in the Records after the run. Generated within the same bounded system as the Chronicle (doc 05), never quoting real scripture.
 
 ---
 
-## Open questions
+## Decisions (settled 2026-11-20)
 
-1. **Dispensation 7 (The Other Fold)**: keep it, or use a different eighth?
-   A) Keep The Other Fold. B) Replace with "The Great Apostasy" as a long dark age. C) Make Dispensation 7 random from a pool each run.
-2. **A City of One Heart**: when a settlement is lifted, what happens?
-   A) It leaves the map and gives a permanent run-wide multiplier. B) It stays and becomes a beacon that slowly converts neighbors. C) The player chooses.
-3. **The Deluge Trial**: how should a world-cleansing choice work?
-   A) Always optional, with heavy Agency and Joy costs. B) Triggered automatically if Collapse is high. C) Removed; too heavy a theme.
-4. **Lore depth**: how much optional lore text?
-   A) Minimal, mechanics speak. B) A codex that unlocks as you play. C) A full in-world scripture written by your people each run.
+| # | Question | Decision |
+|---|---|---|
+| 1 | Dispensation 7 | **Random from a pool each run** (The Other Fold, The Great Apostasy, more later) |
+| 2 | Lifting a City of One Heart | **Leaves the map and grants a permanent run-wide multiplier** |
+| 3 | The Deluge Trial | **Always optional**, with heavy Agency and Joy costs |
+| 4 | Lore depth | **A scripture written by your people each run** (the Testament) |

@@ -4,7 +4,7 @@
 
 ## The goal in one paragraph
 
-The **game** is deterministic: rules, scoring, card effects and prices never surprise you. The **people** are not. They are driven by a small learned model that runs on the device and **trains on every world you play**. The trained model is saved as **the Records** (doc 02), so each new world's people inherit the experience of worlds before. A fresh model is naive and easy to steer; a well-trained one anticipates your habits. In effect, **the Records are the opponent you play against across your whole career** (5a).
+The **game** is deterministic: rules, scoring, card effects and prices never surprise you. The **people** are not. They are driven by a small learned model that runs on the device and **trains on every world you play**. The trained model is saved as **the Records** (doc 02), so each new world's people inherit the experience of worlds before. Each player has **one lifelong Records** that can never be reset or frozen. A fresh model is naive and easy to steer; a well-trained one anticipates your habits. In effect, **the Records are the opponent you play against across your whole career** (5a).
 
 ## Three tiers
 
@@ -12,7 +12,7 @@ The **game** is deterministic: rules, scoring, card effects and prices never sur
 |---|---|---|---|---|
 | **1. Rules engine** | Scoring, card effects, dials, Collapse, buildings, crisis rules | Plain Swift (`EverlastingCore`) | Yes, fully | Yes |
 | **2. The Spark model** (people policy) | Decides what people and groups *choose* each tick | Small neural network, **MLX Swift** for training, Core ML or MLX for inference | Seeded: same seed + same weights = same world | Yes |
-| **3. The Voice** (language layer) | Writes religion names and doctrines, Chronicle entries, event and crisis text, names | Small open LLM on-device, with a template fallback | Text varies; mechanics never depend on the prose | Optional |
+| **3. The Voice** (language layer) | Writes religion names and doctrines, the Chronicle and Testament, event and crisis text, names | Apple Foundation Models first, small open LLM as fallback, templates last | Text varies; mechanics never depend on the prose | Optional |
 
 The key separation: **models choose from menus that the rules engine defines.** A model can never invent a new mechanic, a new currency or a score change. This is how we get "within expected parameters" (5c).
 
@@ -76,7 +76,7 @@ policy(obs) = mix( naive_prior(obs), learned_policy(obs), α )
 ### Determinism and replays
 
 - All sampling uses a **seeded RNG**. A world is reproducible from `(seed, Records weights hash, player inputs)`.
-- That enables replays, bug reports and shareable seeds ("play my world").
+- That enables replays and bug reports. (Sharing seeds or Records with other players is out of scope for v1.)
 - The rules engine validates every action. An invalid or impossible choice is dropped.
 
 ### Group dynamics and emergence
@@ -93,6 +93,7 @@ Religions, empires, art movements and sciences are not scripted. They **emerge**
 |---|---|
 | **Religion names and doctrines** | The sim picks a structured doctrine: a set of 4–8 **tenets** from a fixed vocabulary (≈ 60 tenets), each tagged true, partial or corrupt relative to the game's hidden "true" set. Truth is computed from tenets, **never from prose**. The LLM only names the faith and phrases its creed. |
 | **Chronicle entries** | Given a structured event (who, what, where, outcome), it writes 1–3 sentences in the voice of the Dispensation. |
+| **The Testament** (your people's scripture) | Assembled from Chronicle events, Witness revelations and the doctrine tenets. The LLM phrases short verses; structure and accuracy come from the sim. |
 | **Event and crisis text** | Fills a template slot for a crisis the rules engine already chose. |
 | **Names** | People, places, faiths, dynasties, styled per culture trait. |
 | **Art** (5c: C) | **Not by image model.** Art variation comes from the parametric style system in doc 03, driven by culture traits the sim produces. See viability below. |
@@ -117,16 +118,22 @@ A hand-written grammar system (Tracery-style) can produce every output type. Dev
 ### Tier 2: no external model needed
 We train our own small network. **Tools:** MLX Swift (Apple, MIT license) for on-device training and inference; optionally Core ML for inference on the Neural Engine. **Cost: free.**
 
+### Tier 3 backend order (decided)
+
+1. **Apple Foundation Models** where the device supports Apple Intelligence. Free, no download, guided generation built in. Not open source, which is the one exception to the open-source preference.
+2. **Open model fallback** (Qwen3 0.6B class) as an optional download for capable devices without Apple Intelligence or with it turned off.
+3. **Template grammar** everywhere else.
+
 ### Tier 3 candidates (verify current versions at build time)
 
 | Model | Size (4-bit) | License | Notes |
 |---|---|---|---|
-| **Qwen3 0.6B** | ≈ 0.4–0.5 GB | Apache 2.0 | **Recommended default.** Clean license, good at structured JSON for its size |
+| **Qwen3 0.6B** | ≈ 0.4–0.5 GB | Apache 2.0 | **Recommended open fallback.** Clean license, good at structured JSON for its size |
 | Qwen3 1.7B | ≈ 1.0 GB | Apache 2.0 | Better prose; needs 8 GB RAM devices |
 | Gemma 3 1B | ≈ 0.7 GB | Gemma terms | Good writing quality; license has use restrictions to review |
 | SmolLM2 360M / 1.7B | ≈ 0.25 / 1.0 GB | Apache 2.0 | Smallest option; weaker but very light |
 | Llama 3.2 1B | ≈ 0.7 GB | Llama community license | Fine, but attribution and naming terms apply |
-| *Apple Foundation Models* | Built into the OS | Free, **not open source** | No download, guided generation built in, only on Apple Intelligence devices. Worth supporting as an alternate backend |
+| *Apple Foundation Models* | Built into the OS | Free, **not open source** | **Primary backend.** No download, guided generation built in, only on Apple Intelligence devices |
 
 Runtime: **MLX Swift** (`mlx-swift-examples` includes LLM loading) or **llama.cpp** (MIT) with Metal. One runtime only; MLX keeps us on a single stack with Tier 2.
 
@@ -166,18 +173,17 @@ Runtime: **MLX Swift** (`mlx-swift-examples` includes LLM loading) or **llama.cp
 4. **On-device training** after each Dispensation; measure time, heat and battery on the oldest target device.
 5. **Records maturity and the α mix**; tie to Veils; build the governor.
 6. **Template text system** for all Voice outputs.
-7. **Voice tier** with Qwen3 0.6B (and Apple Foundation Models where available) behind a feature flag, with schema-constrained output and filters.
-8. **Playtest the "opponent" curve**: does run 10 feel meaningfully different from run 1?
+7. **Voice tier** with Apple Foundation Models first and Qwen3 0.6B as fallback, behind a feature flag, with schema-constrained output and filters.
+8. **Records screen** that turns what the model learned into plain-language lessons (for example "Your people have learned that kings who claim your name are rewarded").
+9. **Playtest the "opponent" curve**: does run 10 feel meaningfully different from run 1?
 
 ---
 
-## Open questions
+## Decisions (settled 2026-11-20)
 
-1. **Records scope**: one set of Records per player, or several?
-   A) One lifelong Records. B) One per Covenant deck. C) Player can keep multiple "lineages" and pick one each run.
-2. **Should players see what their people have learned?**
-   A) Yes, a "Records" screen with plain-language lessons ("Your people have learned that kings who claim your name are rewarded"). B) Only hints in the Chronicle. C) Hidden entirely.
-3. **Voice backend priority**:
-   A) Open model (Qwen3 0.6B) everywhere it fits. B) Apple Foundation Models first, open model as fallback. C) Templates only for v1, Voice later.
-4. **Sharing worlds**: should seeds and Records be shareable?
-   A) Share seeds only. B) Share seeds and Records ("play against my people"). C) No sharing in v1.
+| # | Question | Decision |
+|---|---|---|
+| 1 | Records scope | **One lifelong Records per player** (and, per doc 04, never reset) |
+| 2 | Showing what people learned | **Yes, a Records screen** with plain-language lessons |
+| 3 | Voice backend | **Apple Foundation Models first**, open model (Qwen3 0.6B class) as fallback, templates last |
+| 4 | Sharing worlds | **No sharing in v1** |
