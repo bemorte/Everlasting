@@ -198,3 +198,4 @@ Bemorte's direction after the first UI round. These override anything above that
 - The mark on materials is the seal: two squares laid across each other as an eight-point star, with a circle at the heart.
 - Creeping ink soaks in and feathers like ink drunk by a page. Soft glow is clean, quiet light from above.
 - These still need to be carried through cards, buttons and the shop in the whole-system pass.
+- Card review: Reveal's emblem is only an open hand, palm up (no curtain, no props). Herald, Elder and Sovereign are realistic statues in carved wood, veined marble and cast gold. The bottom-right rank tab is upright. A selected card takes a tight neon edge, not a wide glow.
