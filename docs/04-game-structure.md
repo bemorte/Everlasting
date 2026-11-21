@@ -61,7 +61,7 @@ Each suit has a **Directness** value. Direct acts are powerful but cost belief-i
 | A Word | High card | 5 × 1 | A single act |
 | Two Witnesses | Pair | 10 × 2 | "In the mouth of two witnesses" |
 | Covenant | Two pair | 20 × 2 | Promise for promise |
-| Trinity | Three of a kind | 30 × 3 | Three in one purpose |
+| Presidency | Three of a kind | 30 × 3 | Three who lead as one |
 | Ladder | Straight | 30 × 4 | Ascending steps |
 | One Voice | Flush (5 same suit) | 35 × 4 | Single-minded act |
 | Council | Full house | 40 × 4 | Three decide, two consent |
