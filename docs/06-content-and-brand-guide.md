@@ -22,7 +22,7 @@ This guide is the single reference for what the game says, shows and sounds like
 | **Eight Ages** | Says the structure plainly | Board-game feel |
 | **Everlasting: Worlds Without End** | Keeps the name, adds the loop | Long on the home screen |
 
-Recommendation: keep **Everlasting** as the working title; test against **Firstworld** and **Orbit** once the logo exists.
+**Decided:** the title is **Everlasting**.
 
 | Item | Decision |
 | --- | --- |
@@ -34,7 +34,7 @@ Recommendation: keep **Everlasting** as the working title; test against **Firstw
 | Age rating | Mature but must pass App Review; target Apple's 16+ band |
 | App icon | A planet |
 | Logo | Symbol plus wordmark |
-| Studio | Freaking Dope Studio (working name) |
+| Studio | Freaking Dope Studio |
 | Language | English only at launch |
 | Business model | Subscription: $4.99/year or $0.99/month, free 7-day trial. Needs ongoing content to meet Apple's subscription rules |
 
@@ -80,7 +80,7 @@ Recommendation: keep **Everlasting** as the working title; test against **Firstw
 | Space | Reachable in the Fulness |
 | Witnesses | The player selects one to begin each Dispensation; rare, dramatic betrayals |
 
-Optional mid-game Godhood Powers with lore weight (never required; the people talk about whichever you use): **The Shadow** (people-given name each run), **The Redeemer** (rescue and atonement; name under review), **The Deluge**.
+Optional mid-game Godhood Powers with lore weight (never required; the people talk about whichever you use): **The Shadow** (people-given name each run), **The Lifted Hand** (rescue and atonement), **The Deluge**.
 
 ## Content scope for launch
 
@@ -96,6 +96,8 @@ Optional mid-game Godhood Powers with lore weight (never required; the people ta
 | Last Crisis | A multi-stage final Watch |
 | Run length | Varies with Watch time |
 
+**Decided: a smaller first release.** Launch ships about 40 Godhood Powers, 15 Trials and 4 Covenant decks; the full targets above arrive in subscription updates.
+
 ## Cards and suits
 
 - Play exactly like Balatro. Ranks 2–10 are plain numbered cards; 1, 11, 12, 13 are special.
@@ -103,7 +105,7 @@ Optional mid-game Godhood Powers with lore weight (never required; the people ta
 - Proposed rank names: 1 **Origin** (set in deep black), 11 **Herald**, 12 **Elder**, 13 **Sovereign**. Face figures are ungendered silhouettes.
 - Cards show exact numbers (Witness value and signed dial effects). Flavor text is one short line. Card backs change each Dispensation.
 - Enhancement tiers: gold leaf edges → metallic → pure white neumorphism.
-- Godhood Powers: tall portrait cards. Keys: seals or sigils. Tablets: undecided (proposed stone or clay).
+- Godhood Powers: tall portrait cards. Keys: seals or sigils. Tablets: stained glass panes.
 - Big combos: full Balatro-style spectacle with screen shake.
 
 ## Visual identity
@@ -153,9 +155,13 @@ Art pipeline: Claude Design with art direction by Bemorte, in rounds of rising f
 | Haptics | Mirror Balatro (cards) and Mini Motorways (world) |
 | First 10 seconds | A world forms from nothing: darkness, one point of light, dust gathering into a planet |
 
-## Open items
+## Decided on 2026-11-20
 
-- Title choice; studio name confirmation; Redeemer power name (alternatives: The Ransom, The Second Chance, The Lifted Hand).
-- "Player decides what is right" vs the hidden true-tenet set behind the Truth dial. Proposal: keep the hidden set for scoring, never state it in text.
-- Launch scope: full, or ~40 powers / 15 Trials / 4 decks first with the rest in updates.
-- Tablet look.
+| Item | Decision |
+| --- | --- |
+| Title | Everlasting |
+| Studio | Freaking Dope Studio |
+| Rescue and atonement power | The Lifted Hand |
+| What "right" means | A hidden set of true tenets scores the Truth dial; game text never states it |
+| Launch scope | Smaller first release: ~40 powers, 15 Trials, 4 decks; the rest in updates |
+| Tablet look | Stained glass panes |
