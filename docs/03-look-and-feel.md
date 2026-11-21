@@ -55,6 +55,19 @@ The Watch is a generated land, not a hand-placed diorama. The render style (step
 | 7 The Other Fold / The Great Apostasy | Stone hall with twin towers | Timber-frame houses, cloister school, market hall, mill, keep | Stone walls, mill races | Dense towns, slate roofs |
 | 8 The Fulness | White modern temple with one spire and a gold finial | Brick houses, domed university, store, silos, civic hall, towers | Rail, power lines, factories | Cities, most land worked |
 
+### Buildings by Dispensation (reviewed one at a time from 2026-11-21)
+
+Each Dispensation's buildings must evoke their period through material, silhouette and ornament, not only through size. Every building sits fully inside its own tile. Reference sheets live in project files under `everlasting/review/` and the 3D models in `everlasting/brand/round6/models.js`.
+
+**1 Dawn** (approved). One small family at the edge of the garden they have left. No metal, no writing, no walls. Materials: unhewn stone, hide, bone, wood, ochre, fire. Land: almost all forest, one clearing.
+Temple: altar of stacked unhewn stones with a burning offering, ringed by ochre-banded standing stones. Home: hide lodge on poles with an ochre band and bone doorway. School: the painted stone with ochre handprints and sitting stones. Market: drying racks and a trade mat of shells and flint. Granary: raised cache on stilts, baskets below. Court: the council fire with log seats and a speaking staff. Garden: the garden edge, a grove with one great tree bearing golden fruit. Works: the spring.
+
+**2 The Walking City** (approved). Many villages, one becoming the first true city. Farming, herding, fired clay, the first written marks. Materials: mud brick, lime plaster, reed thatch, red earth paint. Homes are round and share yards.
+Temple: white plastered sanctuary on a two-tier earth mound, ringed by red-capped pillars, gold fire bowl on the roof. Home: three round thatched houses in a walled yard. School: the house of tablets, plastered and flat-roofed, tablets drying under a shade cloth. Market: striped awning stalls. Granary: beehive clay silos on a raised floor. Court: the elders' mound, seats under a shade tree behind a gateway. Garden: irrigated palm orchard. Works: the sheepfold.
+
+**3 The Waters** (in review). River empires, walled cities, wealth and spreading cruelty. Materials: baked brick with buttressed walls, blue glazed brick, pitch, reed, white limestone stairs.
+Temple: three-tier stepped temple with a white stair and a blue shrine crowned in gold. Home: flat-roofed courtyard houses with roof stairs and striped shade cloths. School: the tablet house, a buttressed hall with a blue frieze and tablet shelves in its yard. Market: the covered bazaar, a brick arcade under a reed roof. Granary: three barrel-vaulted storehouses with bronze doors. Court: the city gate, twin crenellated towers with a blue arch and green banners. Garden: terraced garden with a falling stream. Works: timber quay and reed boat.
+
 ### The Revelation: illuminated eras (3b: A)
 
 The same **structures and surfaces** every Dispensation: card frame, table, shop, score panel, dial gauges. Each Dispensation **restyles** them with its own palette, ornament, typography and material.
