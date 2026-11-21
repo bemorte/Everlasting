@@ -189,3 +189,12 @@ Bemorte's direction after the first UI round. These override anything above that
 - The four suit hands follow reference hand drawings (Font Awesome Free solid hands, CC BY 4.0; credit in the app's acknowledgements) and are recast as sculpted gold: open palm, raised fist, one finger raised to a spark, a fist drawing a curtain aside.
 - Herald, Elder and Sovereign are hooded statues in deep indigo lacquer with cast gold, on a gold plinth, built from separate lit forms. The hood stays empty.
 - Watch blocks keep their three hues but gain soft face shading, a lit top edge and cast shadows. Buildings get recessed doors and windows, turned domes and silos.
+
+### Item review (2026-11-20 evening): Logo and Materials
+
+- Logo: the lit rim and flare on the planet are porcelain white, never gold.
+- Gold is shown as embroidery and finery (gold thread couched on night silk, seed pearls), not as crinkled leaf.
+- Enhancement tier two is etched plates: thin brass, gold and steel leaves, hand engraved with invented characters and bound with rings. Not modern brushed steel.
+- The mark on materials is the seal: two squares laid across each other as an eight-point star, with a circle at the heart.
+- Creeping ink soaks in and feathers like ink drunk by a page. Soft glow is clean, quiet light from above.
+- These still need to be carried through cards, buttons and the shop in the whole-system pass.
