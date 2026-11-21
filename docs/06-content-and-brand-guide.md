@@ -176,6 +176,9 @@ Bemorte's direction after the first UI round. These override anything above that
 - **Logo:** clearly a planet seen from above, in an iOS-style layered icon. Lit in gold from the upper right, city lights on the night side. This replaces the abstract Veil mark.
 - **Type:** should evoke temple inscriptions and the labels of distilled products. Cinzel (engraved capitals) for names and ranks, Cormorant Garamond for text and numbers, Jost for tiny tracked labels.
 - **Materials must look real:** crinkled gold leaf with seams and bole, brushed and engraved steel, embossed porcelain, obsidian, leaded glass lit from behind.
-- **Stained glass has a voice:** each suit has its own glass pattern (Command columns, Punish chevrons, Inspire rising scales, Reveal sunburst), and the limb of the world runs along the foot of every card.
+- **Stained glass has a voice:** each suit has its own glass pattern (Command columns, Punish chevrons, Inspire a diamond lattice with lights coming on, Reveal sunburst), and the limb of the world runs along the foot of every card.
 - **Emblems** are solid gold shapes with cut-out detail, built on the lancet arch. Nothing simple or childish.
 - **Dials** read as seals with a sweeping ring, not numbers.
+- **Suit emblems are whole hands** (round 4): Command a raised open palm, Punish a closed fist, Inspire a hand pointing up at a spark (the moment of aha, replacing the offering palm), Reveal a hand gripping a curtain drawn aside with a star behind it. The hand is always the largest thing in the emblem.
+- **Inspire versus Reveal:** Inspire is inspiration, discovery, the moment of aha. Reveal is being shown and awed.
+- **Court cards** (Herald, Elder, Sovereign) are hooded figures in black lacquer and gold line with an empty hood: a horn, a lamp on a staff, a crown and rays.
