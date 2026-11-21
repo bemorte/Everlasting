@@ -20,7 +20,7 @@ The left column below is **internal reference only** (for the team and for Claud
 | Internal reference | In-game name | How it shows up in play |
 |---|---|---|
 | Intelligences, eternal and uncreated | **The Spark** | Every person in the sim has one. It persists between runs as part of the Records (see doc 05). |
-| Premortal council, plan chosen with agency | **The Council Before** | The run's opening: you pick your starting deck ("Covenant") and see the trade-off between guiding and compelling. |
+| Premortal council, plan chosen with agency | **The Council Before** | Skipped and implied only (see doc 06). The run opens directly on choosing a Covenant deck. |
 | Agency as central | **Agency dial** | One of five God Score dials. Redemption gained while Agency is low is discounted. |
 | Opposition in all things | **The Shadow**, entropy, human choice | See "Opposition" below. |
 | The veil | **The Veil** | A meter. Revealing yourself thins it: faith rises easily but each believer's choice is worth less. A thick veil makes faith hard but precious. |

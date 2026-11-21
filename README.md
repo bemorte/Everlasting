@@ -18,6 +18,7 @@ Underneath both, the **people** are driven by a small on-device model that learn
 | [03 — Look and feel](docs/03-look-and-feel.md) | Visual languages, per-era styles, platform and tech, art plan |
 | [04 — Game structure](docs/04-game-structure.md) | Runs, scoring, hands, shop, Watch, winning, difficulty, progression |
 | [05 — Non-deterministic people](docs/05-non-deterministic-people-ai.md) | The people model, on-device training, open LLM options, iOS viability |
+| [06 — Content and brand guide](docs/06-content-and-brand-guide.md) | Name, voice, lore canon, launch scope, cards, visual identity, sound |
 
 Each doc ends with a **Decisions** table recording the choices settled so far.
 

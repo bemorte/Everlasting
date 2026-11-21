@@ -8,7 +8,7 @@ Everlasting deliberately has **two visual languages**, one for each layer of pla
 
 | | **The Watch** (sim) | **The Revelation** (cards) |
 |---|---|---|
-| Style (3a) | **A + B**: clean minimalist 2D in the Mini Motorways tradition, presented as a **tilt-shift 3D diorama** | **C + D**: painterly, illuminated-manuscript art, a **different style per Dispensation** |
+| Style (3a) | **Monument Valley pastel geometry** (flat vector with texture overlays), presented as a **tilt-shift diorama**. Mini Motorways stays the reference for play feel | **Stained glass** (flat vector with texture overlays), a **moderately different style per Dispensation**, same bones |
 | Changes over the run? | **No.** The Watch keeps one consistent, calm look so it stays readable. Only the *architecture on the map* advances with technology. | **Yes.** Every Dispensation brings a new style. Later, the people help choose it. |
 | Mood | Cozy, quiet, toy-like | Sacred, dramatic, ornate |
 | Camera | Top-down diorama, pinch to zoom, slight tilt | Card table framed by a manuscript page |
@@ -67,7 +67,7 @@ From answer 3b: **the people in the sim can decide the style of the next Dispens
 
 ## Platform and tech (3c: Apple platforms only)
 
-Targets: **iPhone and iPad first, Mac (native Apple silicon) second**, played in **landscape**. Apple TV and Vision Pro are out of scope for v1.
+Targets: **iPhone only at first**, played in **landscape**. iPad and Mac come later. Apple TV and Vision Pro are out of scope for v1.
 
 | Need | Choice | Why |
 |---|---|---|

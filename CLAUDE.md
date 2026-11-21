@@ -4,13 +4,14 @@ Guidance for Claude Code when working in this repository.
 
 ## What this project is
 
-**Everlasting** is a god game for Apple platforms (iPhone and iPad first, Mac second). The design blueprint lives in `docs/` and is the source of truth until code exists. Read the relevant doc before proposing changes:
+**Everlasting** is a god game for Apple platforms (iPhone only at first, landscape; iPad and Mac later). The design blueprint lives in `docs/` and is the source of truth until code exists. Read the relevant doc before proposing changes:
 
 - `docs/01-influences.md`: the three layers (Revelation cards, Watch sim, People model) and what each influence contributes
 - `docs/02-cosmology-and-story.md`: cosmology concept map, the eight Dispensations, endless levels, the Shadow
 - `docs/03-look-and-feel.md`: visual rules per layer, per-Dispensation styles, tech stack
 - `docs/04-game-structure.md`: dials, hand types, targets, shop, Watch, grading, Veils, unlocks
 - `docs/05-non-deterministic-people-ai.md`: the Spark model, the Records, the Voice, viability
+- `docs/06-content-and-brand-guide.md`: name, voice and tone, lore canon, card and visual identity rules. Follow it for any player-facing text or art
 
 ## Non-negotiable design rules
 
