@@ -21,6 +21,40 @@ Everlasting deliberately has **two visual languages**, one for each layer of pla
 - **Readability first.** Each Watch currency has one color: Devotion (gold), Insight (blue), Plenty (green), Harmony (rose). Crisis bubbles use one alert color (deep red). The dials sit in a thin top bar.
 - **Architecture advances quietly.** Huts, then mud brick, then stone, then columns, then spires, then steel, keeping the same silhouette families so players always recognize "temple", "school" and "market".
 
+### Watch world rules (review round 2, 2026-11-21, awaiting sign-off)
+
+The Watch is a generated land, not a hand-placed diorama. The render style (stepped tiles, flat shaded low-poly, one warm sun, saturated palette) never changes. What stands on the land advances with each Dispensation.
+
+**Land**
+1. The world is one large island on a 60 × 60 grid of stepped tiles: deep sea, shallows, sand, grass, hills, rock, snow peaks. Forest grows where the ground is wet, conifers on high ground.
+2. Water always runs downhill from the mountains to the sea. Rivers never cross, climb or end inland.
+3. Settlements start only on flat ground beside fresh water or a sheltered coast. The capital takes the best site.
+4. Fields ring a settlement on flat ground. Forest is cleared as a settlement grows.
+5. Routes follow the flattest path between settlements and cross rivers only on bridges.
+
+**Buildings**
+6. Each building has one job, one currency colour and one silhouette family that stays recognisable in every era: Temple (Devotion, gold), School (Insight, silver), Market and Granary (Plenty, bronze), Court and Garden (Harmony, green).
+7. The temple stands on the highest ground in the capital. The market sits on the main route, the granary beside the fields, the court on the square, the school near the temple, the garden by water.
+8. Nothing on the map is cross shaped.
+
+**Three zoom levels**
+- **The Land:** the whole world. Read routes, growth and where crises are spreading.
+- **The Valley:** one settlement and its fields. Build and route here.
+- **The Street:** people, prayers and small miracles.
+
+**How each Dispensation changes the land**
+
+| Dispensation | Temple | Homes and secular buildings | Infrastructure | Land |
+|---|---|---|---|---|
+| 1 Dawn | Altar of unhewn stones with a fire | Hide huts, drying racks, storage pit, council fire ring | Footpaths, a spring | Almost all forest, one clearing |
+| 2 The Walking City | Raised platform shrine | Round mud houses, awning stalls, clay silos, elders' mound | Dirt tracks, flocks | First fields, small clearings |
+| 3 The Waters | Stepped mud-brick temple | Flat-roofed brick houses, covered market, domed granaries, city gate court | Docks and boats, mud walls | Wide fields, cleared lowlands |
+| 4 The Covenant | Tent of meeting inside a walled court | Striped tents, open trading ground, store hut, standing-stone court | Tracks, wells, flocks | Light footprint, camps move |
+| 5 The Law | Hewn stone house with a bronze basin | Stone houses, porticoed school and court, vaulted storehouses | Stone walls and gates, paved roads | Terraced fields |
+| 6 The Meridian | Columned temple with a gilded roof | Tiled-roof houses, colonnaded market, great barn, domed court | Aqueducts, paved roads, harbour | Villages along every river |
+| 7 The Other Fold / The Great Apostasy | Stone hall with twin towers | Timber-frame houses, cloister school, market hall, mill, keep | Stone walls, mill races | Dense towns, slate roofs |
+| 8 The Fulness | White modern temple with one spire and a gold finial | Brick houses, domed university, store, silos, civic hall, towers | Rail, power lines, factories | Cities, most land worked |
+
 ### The Revelation: illuminated eras (3b: A)
 
 The same **structures and surfaces** every Dispensation: card frame, table, shop, score panel, dial gauges. Each Dispensation **restyles** them with its own palette, ornament, typography and material.
