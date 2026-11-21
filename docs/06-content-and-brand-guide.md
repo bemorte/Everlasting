@@ -165,3 +165,17 @@ Art pipeline: Claude Design with art direction by Bemorte, in rounds of rising f
 | What "right" means | A hidden set of true tenets scores the Truth dial; game text never states it |
 | Launch scope | Smaller first release: ~40 powers, 15 Trials, 4 decks; the rest in updates |
 | Tablet look | Stained glass panes |
+
+## Art direction, round 3 (2026-11-20)
+
+Bemorte's direction after the first UI round. These override anything above that conflicts.
+
+- **Cohesion over numerical clarity.** Prefer a shape, a sweep or a material to a number.
+- **Cards carry rank and suit only.** Witness values and dial effects live in press-and-hold tooltips, as in Balatro. Godhood Power faces carry only a seal and a name.
+- **Give things room.** Smaller type, more space, fewer things per screen.
+- **Logo:** clearly a planet seen from above, in an iOS-style layered icon. Lit in gold from the upper right, city lights on the night side. This replaces the abstract Veil mark.
+- **Type:** should evoke temple inscriptions and the labels of distilled products. Cinzel (engraved capitals) for names and ranks, Cormorant Garamond for text and numbers, Jost for tiny tracked labels.
+- **Materials must look real:** crinkled gold leaf with seams and bole, brushed and engraved steel, embossed porcelain, obsidian, leaded glass lit from behind.
+- **Stained glass has a voice:** each suit has its own glass pattern (Command columns, Punish chevrons, Inspire rising scales, Reveal sunburst), and the limb of the world runs along the foot of every card.
+- **Emblems** are solid gold shapes with cut-out detail, built on the lancet arch. Nothing simple or childish.
+- **Dials** read as seals with a sweeping ring, not numbers.
