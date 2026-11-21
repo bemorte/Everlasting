@@ -182,3 +182,10 @@ Bemorte's direction after the first UI round. These override anything above that
 - **Suit emblems are whole hands** (round 4): Command a raised open palm, Punish a closed fist, Inspire a hand pointing up at a spark (the moment of aha, replacing the offering palm), Reveal a hand gripping a curtain drawn aside with a star behind it. The hand is always the largest thing in the emblem.
 - **Inspire versus Reveal:** Inspire is inspiration, discovery, the moment of aha. Reveal is being shown and awed.
 - **Court cards** (Herald, Elder, Sovereign) are hooded figures in black lacquer and gold line with an empty hood: a horn, a lamp on a staff, a crown and rays.
+
+### Round 5 (2026-11-21): sculpted objects
+
+- Nothing is a flat sign. Hands, court figures, seals, dial emblems and Watch buildings are modelled as solid objects lit from the upper left, with rounded relief, a caught highlight and a soft cast shadow. Flat fills are kept for text and for emblems under 16 px.
+- The four suit hands follow reference hand drawings (Font Awesome Free solid hands, CC BY 4.0; credit in the app's acknowledgements) and are recast as sculpted gold: open palm, raised fist, one finger raised to a spark, a fist drawing a curtain aside.
+- Herald, Elder and Sovereign are hooded statues in deep indigo lacquer with cast gold, on a gold plinth, built from separate lit forms. The hood stays empty.
+- Watch blocks keep their three hues but gain soft face shading, a lit top edge and cast shadows. Buildings get recessed doors and windows, turned domes and silos.
