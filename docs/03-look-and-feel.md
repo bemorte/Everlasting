@@ -8,7 +8,7 @@ Everlasting deliberately has **two visual languages**, one for each layer of pla
 
 | | **The Watch** (sim) | **The Revelation** (cards) |
 |---|---|---|
-| Style (3a) | **Monument Valley pastel geometry** (flat vector with texture overlays), presented as a **tilt-shift diorama**. Mini Motorways stays the reference for play feel | **Stained glass** (flat vector with texture overlays), a **moderately different style per Dispensation**, same bones |
+| Style (3a) | **Miniature diorama geometry**: clean Monument Valley forms in real-material textures and natural greens, sands and sea (not pastel), presented as a **tilt-shift diorama**. Mini Motorways stays the reference for play feel | **Stained glass** (flat vector with texture overlays), a **moderately different style per Dispensation**, same bones |
 | Changes over the run? | **No.** The Watch keeps one consistent, calm look so it stays readable. Only the *architecture on the map* advances with technology. | **Yes.** Every Dispensation brings a new style. Later, the people help choose it. |
 | Mood | Cozy, quiet, toy-like | Sacred, dramatic, ornate |
 | Camera | Top-down diorama, pinch to zoom, slight tilt | Card table framed by a manuscript page |
@@ -254,6 +254,17 @@ From answer 3b: **the people in the sim can decide the style of the next Dispens
 - During a Watch, the people's culture accumulates **style traits**: for example "loves geometry", "river people", "martial", "mourning", "prosperous", "scholarly".
 - At the next Revelation, those traits **modulate** the base style through a controlled set of parameters (decided: **medium** range): palette shift, ornament density and motif set, typography, card-back pattern, and ambient music layer. Styles never blend two Dispensations together.
 - The result: the same "The Law" Dispensation looks austere in one world and opulent in another, always within a hand-designed range.
+
+### One look across both worlds (whole-system look pass, Nov 22 2026)
+
+The Revelation is seen from **off the planet** and the Watch from **on it**, so the two may differ, but they share one rule: **clean forms, real materials, light from the upper left.** The pass changed style only; no layout or structure moved.
+
+- **Glass:** every pane has its own glass texture and is held by dark, lit, dimensional lead with a soft light bleed.
+- **Gold:** burnished gold with a low sheen and fine grain. No streaky or flaked gold leaf.
+- **Card tiers:** tier one is a **gold embroidery** edge (couched gold cord on night silk, four pearls); tier two is an **etched plate** (engraved brass, no rings); tier three stays porcelain.
+- **The planet** in the logo, icon and cards uses the same greens, sands and sea as the Watch land, with relief, coast and clouds.
+- **Watch colours** (`world-*` tokens): grass `#62b146`, forest `#3f8f3c`, soil `#6b4a2c`, sand `#e3cf94`, stone `#b9b0a2`, wood `#8a5a34`, water `#2b8fd6`, deep `#173a9c`. The old pastel `world-*` tokens are retired.
+- The Watch wireframe shows the final Watch art, not the old pastel board.
 
 ## Sound
 

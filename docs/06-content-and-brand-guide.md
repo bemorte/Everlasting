@@ -139,7 +139,7 @@ Rules:
 - Suits keep their names; symbols are hand gestures: Command = raised open palm, Punish = closed fist, Inspire = upturned offering palm, Reveal = hand drawing back a curtain.
 - Proposed rank names: 1 **Origin** (set in deep black), 11 **Herald**, 12 **Elder**, 13 **Sovereign**. Face figures are ungendered silhouettes.
 - Cards show exact numbers (Witness value and signed dial effects). Flavor text is one short line. Card backs change each Dispensation.
-- Enhancement tiers: gold leaf edges → metallic → pure white neumorphism.
+- Enhancement tiers: gold embroidery edge → etched plate → pure white porcelain.
 - Godhood Powers: tall portrait cards. Keys: seals or sigils. Tablets: stained glass panes.
 - Big combos: full Balatro-style spectacle with screen shake.
 
@@ -147,7 +147,7 @@ Rules:
 
 | Element | Decision |
 | --- | --- |
-| Master color / accent | Gold / gold leaf |
+| Master color / accent | Gold / burnished gold |
 | Default UI | Dark night sky |
 | Display type | Custom lettering per Dispensation |
 | Body type | Clean sans serif |
@@ -158,7 +158,7 @@ Rules:
 
 | | Revelation (cards) | Watch (world) |
 | --- | --- | --- |
-| Reference | Stained glass | Monument Valley pastel geometry |
+| Reference | Stained glass | Miniature diorama geometry, real materials, natural colour (not pastel) |
 | Rendering | Flat vector + texture overlays | Flat vector + texture overlays, tilt-shift diorama |
 | Change per Dispensation | Moderate, same bones | None |
 | People | Silhouettes | Tiny dots |
@@ -210,7 +210,7 @@ Bemorte's direction after the first UI round. These override anything above that
 - **Give things room.** Smaller type, more space, fewer things per screen.
 - **Logo:** clearly a planet seen from above, in an iOS-style layered icon. Lit in gold from the upper right, city lights on the night side. This replaces the abstract Veil mark.
 - **Type:** should evoke temple inscriptions and the labels of distilled products. Cinzel (engraved capitals) for names and ranks, Cormorant Garamond for text and numbers, Jost for tiny tracked labels.
-- **Materials must look real:** crinkled gold leaf with seams and bole, brushed and engraved steel, embossed porcelain, obsidian, leaded glass lit from behind.
+- **Materials must look real:** burnished gold with a soft sheen and fine grain (never streaky leaf), gold embroidery, etched brass plate, embossed porcelain, obsidian, leaded glass lit from behind.
 - **Stained glass has a voice:** each suit has its own glass pattern (Command columns, Punish chevrons, Inspire a diamond lattice with lights coming on, Reveal sunburst), and the limb of the world runs along the foot of every card.
 - **Emblems** are solid gold shapes with cut-out detail, built on the lancet arch. Nothing simple or childish.
 - **Dials** read as seals with a sweeping ring, not numbers.
@@ -229,7 +229,7 @@ Bemorte's direction after the first UI round. These override anything above that
 
 - Logo: the lit rim and flare on the planet are porcelain white, never gold.
 - Gold is shown as embroidery and finery (gold thread couched on night silk, seed pearls), not as crinkled leaf.
-- Enhancement tier two is etched plates: thin brass, gold and steel leaves, hand engraved with invented characters and bound with rings. Not modern brushed steel.
+- Enhancement tier two is etched plates: thin engraved brass, hand engraved with invented characters, no rings. Not modern brushed steel.
 - The mark on materials is the seal: two squares laid across each other as an eight-point star, with a circle at the heart.
 - Creeping ink soaks in and feathers like ink drunk by a page. Soft glow is clean, quiet light from above.
 - These still need to be carried through cards, buttons and the shop in the whole-system pass.
