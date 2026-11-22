@@ -85,3 +85,6 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 14 | C1 Hand preview | **Suit bars, dials on hold**: Command, Punish, Inspire and Reveal bars always show ghosted landing points; press and hold the hand for the full dial change (2026-11-22) |
 | 15 | C2 Missing a target | **Run ends, like Balatro.** Replaces Apostasy-on-miss in doc 04; the game now has two loss conditions (missed target, Collapse 100) (2026-11-22) |
 | 16 | C3 Ideology | **Both**: pick a starting deck (Covenant deck) before the run, and an ideology title with bonuses forms from how you actually play (2026-11-22) |
+| 17 | W2 What travels | **Both, on the same paths**: one kind of path, several cargo types like Mini Metro (travellers going to temple, school, market, peace), and their travel spreads belief. Path drawing works like **Mini Motorways**, with its building automation: buildings appear on their own when the people need or earn them (2026-11-22) |
+| 18 | W6 What spreads | **Your people's society and religion**, expansionist and proselytizing at once: the map shows the reach of the society that worships you, which you want to extend and thrive (2026-11-22) |
+| — | W3 Scarce resource | Tapped by mistake; asked again (2026-11-22) |
