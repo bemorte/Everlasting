@@ -39,6 +39,16 @@ Direction from Bemorte:
 
 This is the least settled part of the game, so it gets the most questions (W1–W10). Current design in docs 01 and 04 (one-tap routes, buildings, Prayers, crises, one in-game year minimum) stays until answers replace it.
 
+## 5. Prototype before the build (settled 2026-11-22)
+
+Before any real UI or world, the rules are tested in three cheap steps, in order:
+
+1. **Rules run-through in chat.** Claude acts as game master for a few Eras and one Watch summary; a small script deals and scores so the numbers are honest. Goal: find gaps and contradictions in the rules.
+2. **Headless balance simulator.** The rules engine as code, played by simple bot gods over thousands of seeded runs, charting where runs fail. Goal: tune targets, card values and costs so the climb feels like Balatro's antes.
+3. **Ugly playable Watch greybox** (dots, lines, timers, in a browser). Goal: tune the Mini Metro / Mini Motorways pressure, which depends on time and cannot be judged in text.
+
+Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and Mini Motorways were tuned through long rough-prototype iteration; turn-based balance can be tested on paper, real-time balance cannot.
+
 ---
 
 ## Open questions
@@ -88,3 +98,4 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 17 | W2 What travels | **Both, on the same paths**: one kind of path, several cargo types like Mini Metro (travellers going to temple, school, market, peace), and their travel spreads belief. Path drawing works like **Mini Motorways**, with its building automation: buildings appear on their own when the people need or earn them (2026-11-22) |
 | 18 | W6 What spreads | **Your people's society and religion**, expansionist and proselytizing at once: the map shows the reach of the society that worships you, which you want to extend and thrive (2026-11-22) |
 | 19 | W3 Scarce resource | **People, not path pieces.** A path limit still exists underneath, but the game presents scarcity as the believers willing to travel and spread your doctrine. Paths can be drawn freely; who walks them is variable and scarce. Overbuilding paths does not help: empty paths spread nothing and do not bring the dial-related buildings (2026-11-22) |
+| 20 | Prototyping | **All three steps, in order**: chat run-through, bot simulator, Watch greybox (2026-11-22) |
