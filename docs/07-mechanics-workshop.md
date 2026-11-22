@@ -78,3 +78,4 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 7 | W7 Failure in the Watch | **Overflow raises Collapse**: towns left waiting fill with unrest; each overflow adds Collapse, the Watch continues (2026-11-22) |
 | 8 | W8 Map growth | **Camera pulls out**, Mini Metro style: start on a small valley, the view widens as new towns appear at the edges (2026-11-22) |
 | 9 | W9 Watch length | **Player decides freely**: keep one in-game year minimum, then stay as long as you like as it gets harder (2026-11-22) |
+| 10 | W10 Watch to cards | **Cards plus currency**: some things the people build add cards to the deck; leftover points become Light (2026-11-22) |
