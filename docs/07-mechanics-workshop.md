@@ -72,3 +72,4 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 1 | Era names | **The Revelation, The Kingdom, The Faith Crisis** (2026-11-22). The Faith Crisis keeps its Trial modifier |
 | 2 | Reveal mini-game | **Pick 1 of 7 people** from the Watch, from model-written short bios; steers the next Dispensation and the card phase (2026-11-22) |
 | 3 | Card clarity | **Effects on the Command, Punish, Inspire and Reveal levels are always visible before scoring** (2026-11-22) |
+| 4 | W1 Main Watch control | **Drag paths between settlements**, Mini Metro style; redraw lines as needs shift (2026-11-22) |
