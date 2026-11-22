@@ -154,7 +154,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the round shrine and spring. A ring of columns under a conical roof, a spring basin, olives, cypresses, flowers.
 - Works: the war galley. A ram-prowed oared ship with a striped sail at ship sheds on the harbour.
 
-**The Long Night: The Kept Lamp** (in review). While other lands forget, the desert cities gather every book they can find, copy it, argue with it and add to it. Scholars, merchants and star watchers. Materials: sand brick, turquoise and deep blue domes, blue and white tile, red and white striped arches, carved wooden lattice, toothed parapets, palms and orange trees.
+**The Long Night: The Kept Lamp** (approved). While other lands forget, the desert cities gather every book they can find, copy it, argue with it and add to it. Scholars, merchants and star watchers. Materials: sand brick, turquoise and deep blue domes, blue and white tile, red and white striped arches, carved wooden lattice, toothed parapets, palms and orange trees.
 
 - Temple: the great mosque. A turquoise dome over the prayer hall with two small blue domes, an arcaded tile court with a washing fountain, a tiled portal, a tall and a short minaret.
 - Home: the courtyard house. Blank outer walls around a tiled court with a fountain and orange trees, lattice bay windows, a wind tower, a shaded roof terrace.
@@ -164,6 +164,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Court: the palace court. Red walls and a tower with green tiled roofs, slender white arcades around a long pool and tile floor.
 - Garden: the four rivers garden. Four beds split by water channels, an eight-pointed basin, a domed kiosk, palms, orange trees, roses.
 - Works: the great waterwheel. A tall wooden wheel with clay pots lifting river water into an arched channel, with plots beside it.
+
+**The Awakening: The Rebirth** (in review). The world wakes up curious. Merchants, painters, printers and star watchers measure everything again and trust what they can see. Materials: ochre stucco over rough stone ground floors, striped white, green and pink marble, terracotta roofs and dome, round arches, cypress.
+
+- Temple: the great dome. A striped marble church with a round window and bronze doors, an eight-sided ribbed terracotta dome with a white lantern and gold ball, and a tall striped bell tower.
+- Home: the merchant palace. Three storeys of arched windows over a rough stone base, a deep cornice and tiled roof, a shop awning, a side loggia with a roof terrace and lemon pots.
+- School: university and star tower. Two wings with arcades around a green court, a round tower with a metal dome and telescope, a globe, books.
+- Market: the arcade hall. An open arcaded hall with a room above, stalls, a fountain, a money changer's table, a cart of barrels.
+- Granary: the guild warehouse. Tall brick warehouse with arched bays and a hoist, barrels, sacks, a wagon.
+- Court: the towered town hall. A fortress-like stone block with battlements and a tall clock tower, a fountain and an obelisk on the square.
+- Garden: the hedge garden. Four clipped hedge beds in patterns, a tiered fountain, lemon pots, a cypress row, a pergola, a marble rail.
+- Works: the printing house. An open-fronted shop with a screw press, sheets drying on a line, stacks of books.
 
 ### The Revelation: illuminated eras (3b: A)
 
