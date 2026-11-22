@@ -79,3 +79,4 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 8 | W8 Map growth | **Camera pulls out**, Mini Metro style: start on a small valley, the view widens as new towns appear at the edges (2026-11-22) |
 | 9 | W9 Watch length | **Player decides freely**: keep one in-game year minimum, then stay as long as you like as it gets harder (2026-11-22) |
 | 10 | W10 Watch to cards | **Cards plus currency**: some things the people build add cards to the deck; leftover points become Light (2026-11-22) |
+| 11 | R1 Witness frequency | **Once per Dispensation**, after the last Watch (following The Faith Crisis); a big moment that mainly picks where history goes next (2026-11-22) |
