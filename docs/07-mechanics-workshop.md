@@ -100,3 +100,4 @@ Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and 
 | 19 | W3 Scarce resource | **People, not path pieces.** A path limit still exists underneath, but the game presents scarcity as the believers willing to travel and spread your doctrine. Paths can be drawn freely; who walks them is variable and scarce. Overbuilding paths does not help: empty paths spread nothing and do not bring the dial-related buildings (2026-11-22) |
 | 20 | Prototyping | **All three steps, in order**: chat run-through, bot simulator, Watch greybox (2026-11-22) |
 | 21 | Starting numbers | **Copy the source games, then bend**: Balatro's hand size, hands, discards and ante targets; Mini Metro / Mini Motorways spawn pacing and weekly upgrades; Plague Inc point costs as the baseline, adjusted from playtests (2026-11-22) |
+| 22 | Playtesters | **Bemorte plus a few friends**, sharing the browser prototypes (2026-11-22) |
