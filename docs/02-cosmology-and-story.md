@@ -60,7 +60,8 @@ A run still plays **eight Dispensations**, but they are now **slots**. The first
 | 7 **The Awakening** | **The Rebirth** (Renaissance) | Progress and Joy lead |
 | | **The Gathering** (American frontier, 1830s and 1840s) | Truth and Agency lead |
 | 8 **The Fulness** | **The Fulness** (Restoration, latter days) | default |
-| | **The Thousand Years** (the far future, the millennial day) | every dial is high and Collapse is low |
+| | **The Thousand Years** (the bright far future: a grounded, science-based world of sun, wind, fusion, vertical farms and rewilded land) | every dial is high and Collapse is low |
+| | **The Hollow Years** (working name; the dark far future: the same science turned against the people, added 2026-11-22) | Progress is high while Joy and Agency are low, or Collapse is high |
 
 Rules for the new options:
 
@@ -68,7 +69,7 @@ Rules for the new options:
 - Other cultures are shown through architecture, materials and daily life only. No real scripture, prophets, religious names or symbols. The Gathering evokes its time and place without naming anyone.
 - The new in-game names are working names until reviewed.
 - **Each Dispensation refers to God very differently.** The people of every option have their own name and way of speaking of the player (to be written per option in doc 06 during the redraw of assets and game dynamics): cards, prayers, the Testament and the Voice all use that Dispensation's form of address.
-- The Thousand Years is an alternative to The Fulness, not an extra level. The endless levels are unchanged.
+- The Thousand Years and The Hollow Years are alternatives to The Fulness, not extra levels. The endless levels are unchanged, and each of the four (The Spirit World, Telestial, Terrestrial, Celestial) needs its own Watch board.
 - This replaces the old rule that only Dispensation 7 was drawn from a pool.
 
 ## The original eight Dispensations

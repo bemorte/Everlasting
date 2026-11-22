@@ -187,16 +187,20 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: orchard, crop rows, sunflowers, bee skeps on a bench and a roofed well.
 - Works: the wagon company. Covered wagons, oxen, a handcart and a campfire. On the land the docks hold paddle steamers.
 
-**The Fulness: The Thousand Years** (in review). The far future option for the last slot: a healed world long after the troubles, where the city and the garden have become one thing. Materials: pearl white, clear blue glass, gold rings, running water, and green growing on every roof and ledge. No smoke, no vehicles on the ground, nothing for sale.
+**The Fulness: The Thousand Years** (in review, round 2: kept bright and happy, rebuilt on grounded, science-based ideas instead of floating rings and symbols). The far future option for the last slot: a world that solved its problems with real tools. Materials: pearl white, clear blue glass, deep blue solar glass, a little gold, running water, and green growing on every roof and ledge. Nothing floats and nothing glows without a reason.
 
-- Temple: the city of light. A round terraced hall with a tall central spire, twelve smaller spires in a ring, floating gold rings, and four streams running out from under it to the edges of the tile.
-- Home: the garden dwelling. Rounded white homes with glass domes and green roofs, a pond, a kitchen patch, fruit trees and a sun flower collector.
-- School: the hall of all learning. A glass observatory dome, a twisting library tower and a floating model of the heavens in gold rings.
-- Market: the open table. Tall white canopy trees shading long tables of fruit and a fountain. Nothing is bought or sold.
-- Granary: the growing tower. Stacked glass floors with a planted ring on every level, glass seed domes and round fields.
-- Court: the council ring. Twelve white seats in a circle around a light, under a great gold ring.
-- Garden: the healed garden. A white-trunked tree with shining fruit beside a stream, and a lion resting among lambs.
-- Works: the living tower with a sky ship at its mooring. Light masts replace the power lines.
+- Temple: the temple of light. A round terraced hall with a tall central spire and twelve smaller spires in a ring, with four streams running out to the edges of the tile.
+- Home: the garden home. Rounded white homes with glass domes and green roofs, roof solar, a small wind turbine, a rain tank, a greenhouse, a pond and a kitchen patch.
+- School: observatory and launch pad. A slit-dome telescope, a glass research tower, a radio dish and a small rocket on its gantry.
+- Market: the market under solar trees. Hexagonal solar canopies shading produce tables, a kiosk, crates and a delivery drone.
+- Granary: the vertical farm. Stacked glass floors with a planted ring on every level, seed domes, round pivot fields and a crop drone.
+- Court: the glass forum. Tiered seats under an open lattice dome with glass panes.
+- Garden: the rewilded park. A great tree, a stream and reed pond, deer, rabbits, beehives and a weather station.
+- Works: the green tower with a maglev train on a raised line. On the land, fusion plants (white ring buildings) replace factories and wind turbines replace power lines.
+
+**The Fulness: The Hollow Years** (planned, working name). The dark far future, the mirror of The Thousand Years: the same science, used on the people instead of for them.
+
+**Endless boards (planned).** The four endless levels each need their own Watch board and building set: The Spirit World, Telestial, Terrestrial and Celestial.
 
 ### The Revelation: illuminated eras (3b: A)
 
