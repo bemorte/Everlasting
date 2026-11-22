@@ -97,6 +97,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Works: the glass tower, with brick factories (sawtooth roofs, stacks) and lattice pylons on the land.
 
 
+**Before the Dawn: The Waking** (in review). The very first people, at the moment they become people: fire, paint, burial and the first words. Ice-age country with mammoths. Nothing is built yet; everything is found, stacked or lashed. Materials: raw rock, mammoth bone and tusk, hide and fur, ochre and charcoal paint, fire.
+
+- Temple: the painted cave. A crag with a dark mouth lit by a fire inside, ochre hand prints and painted beasts, a tusk arch, offering stones.
+- Home: rock shelter with a hide windbreak and hearth, beside a mammoth-bone hut.
+- School: the knapping floor. An anvil boulder, flint chips, a painted teaching rock, a spear rack.
+- Market: the meeting stone. A tall marked stone where bands trade shells, flint, hides and tusks.
+- Granary: drying racks, a stone-ringed cache pit, a mammoth ribcage.
+- Court: the elders' fire. A great hearth, log and stone seats, a mammoth-skull seat of honour.
+- Garden: the watering hole. Pool, reeds, berry bushes, a young mammoth drinking.
+- Works: the mammoth herd.
+
 ### The Revelation: illuminated eras (3b: A)
 
 The same **structures and surfaces** every Dispensation: card frame, table, shop, score panel, dial gauges. Each Dispensation **restyles** them with its own palette, ornament, typography and material.
