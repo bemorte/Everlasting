@@ -121,7 +121,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the taro terraces. Flooded stepped paddies with water channels, bananas, palms.
 - Works: the voyaging canoe. Twin hulls, a deck hut and two claw sails at a lagoon beach, with a canoe shed.
 
-**The Law: The Lotus Kingdoms** (in review, round 3: must read unmistakably as India. Onion domes on every pavilion, cusped arches, a pink palace of windows, blue-washed houses with balcony bays, marigold garlands, a four-part water garden with cypresses and peacocks, elephants with howdahs; plus the Hindu and Buddhist architecture of round 2). River kingdoms of the warm south: crowded, colourful and devout, where law is duty and every act is weighed. Materials: red sandstone, cream plaster, white domes, painted gate towers, saffron, magenta and turquoise cloth, strings of prayer flags, gold finials, lamp towers, lotus pools.
+**The Law: The Lotus Kingdoms** (approved at round 3: must read unmistakably as India. Onion domes on every pavilion, cusped arches, a pink palace of windows, blue-washed houses with balcony bays, marigold garlands, a four-part water garden with cypresses and peacocks, elephants with howdahs; plus the Hindu and Buddhist architecture of round 2). River kingdoms of the warm south: crowded, colourful and devout, where law is duty and every act is weighed. Materials: red sandstone, cream plaster, white domes, painted gate towers, saffron, magenta and turquoise cloth, strings of prayer flags, gold finials, lamp towers, lotus pools.
 
 - Temple: the tower shrine. A tall curving stone tower with a ribbed cap and gold finial, a painted tiered gate tower in front, a pillared porch, small towers, a lotus tank, a lamp tower, a bell, prayer flags.
 - Home: the blue house. Blue-washed house with white parapets, projecting arched balcony bays, a roof room with an onion dome, a garlanded arched door, a painted doorstep pattern, a rope cot.
@@ -142,6 +142,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Court: the castle keep. A battered stone base with three white tiers, sweeping tiled roofs and gold roof ornaments.
 - Garden: the pond garden. Pond, arched vermilion bridge, cherry trees, pine, lantern, raked gravel, tea hut.
 - Works: the swordsmith. Forge hall with chimney, anvil, quench tub, sword rack, armour stand.
+
+**The Meridian: The Marble Cities** (in review). Small free cities of thinkers, sailors and arguers, each proud and none willing to be ruled. Materials: white marble with painted blue and red trim and gold roof ornaments, whitewashed walls, terracotta tile, olive and cypress.
+
+- Temple: the hilltop temple. A colonnaded marble temple with a painted frieze and blue pediment on a rock outcrop, a small treasury, an altar fire, bronze tripods, a stair up the rock.
+- Home: the courtyard house. Whitewashed rooms with tile roofs around a paved court with a basin, a porch, a walled yard, amphorae, a loom.
+- School: the wrestling court and grove. Colonnaded ranges around a sand court, a curved stone bench with a sundial, olive trees.
+- Market: the long colonnade. A two-aisled marble hall, awning stalls, amphorae, a fountain house, a tripod.
+- Granary: oil and grain store. Tiled storehouse, a row of great jars, an olive press, sacks.
+- Court: the hillside theatre. A half circle of stepped stone seats around a round floor, with a stage building.
+- Garden: the round shrine and spring. A ring of columns under a conical roof, a spring basin, olives, cypresses, flowers.
+- Works: the war galley. A ram-prowed oared ship with a striped sail at ship sheds on the harbour.
 
 ### The Revelation: illuminated eras (3b: A)
 
