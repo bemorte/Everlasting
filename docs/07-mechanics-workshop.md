@@ -82,3 +82,4 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 11 | R1 Witness frequency | **Once per Dispensation**, after the last Watch (following The Faith Crisis); a big moment that mainly picks where history goes next (2026-11-22) |
 | 12 | R2 Witness effect | **Becomes a temporary Power**: the chosen person joins like a Godhood Power with a unique effect drawn from their life, lasting through the next Dispensation (2026-11-22) |
 | 13 | R3 Bio clarity | **Bio plus exact effect**: each candidate shows their story and a clear effect line (suit level, dial change, which Dispensation path they lean toward) (2026-11-22) |
+| 14 | C1 Hand preview | **Suit bars, dials on hold**: Command, Punish, Inspire and Reveal bars always show ghosted landing points; press and hold the hand for the full dial change (2026-11-22) |
