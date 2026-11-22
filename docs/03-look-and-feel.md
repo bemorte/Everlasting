@@ -97,7 +97,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Works: the glass tower, with brick factories (sawtooth roofs, stacks) and lattice pylons on the land.
 
 
-**Before the Dawn: The Waking** (in review, round 3). The very first people, at the moment they become people: fire, paint and the first words, in ice-age country with mammoths. **Only the temple is a cave, and the cave is a hole in the ground the people come up out of, never a rock structure.** Every other building type barely exists yet: each is a proto version so slight that the player only recognises it once later Dispensations show what it grows into. Materials: raw rock, bone and tusk, hide, branches, ochre, fire.
+**Before the Dawn: The Waking** (approved). The very first people, at the moment they become people: fire, paint and the first words, in ice-age country with mammoths. **Only the temple is a cave, and the cave is a hole in the ground the people come up out of, never a rock structure.** Every other building type barely exists yet: each is a proto version so slight that the player only recognises it once later Dispensations show what it grows into. Materials: raw rock, bone and tusk, hide, branches, ochre, fire.
 
 - Temple: the opening in the earth. A dark hole in the ground with a low ring of stones, worn steps going down toward a faint glow, ochre hand prints on the rim, footprints leading out, two tusks and an offering stone.
 - Home: a branch windbreak, a hide to sleep on, a small fire.
@@ -107,6 +107,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Court: a fire, five stones to sit on, one staff.
 - Garden: the watering hole. Pool, reeds, berry bushes, a young mammoth drinking.
 - Works: the mammoth herd.
+
+**The Wandering: The Far Isles** (in review). A people who read the stars and the swells and cross the great ocean to islands no one has seen. Small, scattered, free, bound together by the canoe. Materials: black basalt platforms, steep golden thatch, lashed dark timber, white bark cloth with red bands, red and yellow feather standards, palms.
+
+- Temple: the stone platform. Two basalt terraces, a row of upright stones, a tall lashed tower wrapped in white cloth, a thatched sacred house, an offering stand, drums, carved banded posts, torches.
+- Home: the thatched house on a stone footing with a porch, a cook shelter, a taro patch, bananas and a small outrigger.
+- School: the navigators' circle. A ring of stones marking the star houses, an open pavilion, a stick chart, a training canoe.
+- Market: the beach exchange. A long open pavilion with mats of fish and fruit, bark cloth on a drying line, baskets, a canoe drawn up.
+- Granary: the raised storehouse on posts with a ladder, a stone-lined pit, coconuts.
+- Court: the meeting house. A tall open hall on a paved court, a speaking stone, seat stones, feather standards.
+- Garden: the taro terraces. Flooded stepped paddies with water channels, bananas, palms.
+- Works: the voyaging canoe. Twin hulls, a deck hut and two claw sails at a lagoon beach, with a canoe shed.
 
 ### The Revelation: illuminated eras (3b: A)
 
