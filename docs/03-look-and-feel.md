@@ -97,9 +97,9 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Works: the glass tower, with brick factories (sawtooth roofs, stacks) and lattice pylons on the land.
 
 
-**Before the Dawn: The Waking** (in review, round 2). The very first people, at the moment they become people: fire, paint and the first words, in ice-age country with mammoths. **Only the temple is a cave.** Every other building type barely exists yet: each is a proto version so slight that the player only recognises it once later Dispensations show what it grows into. Materials: raw rock, bone and tusk, hide, branches, ochre, fire.
+**Before the Dawn: The Waking** (in review, round 3). The very first people, at the moment they become people: fire, paint and the first words, in ice-age country with mammoths. **Only the temple is a cave, and the cave is a hole in the ground the people come up out of, never a rock structure.** Every other building type barely exists yet: each is a proto version so slight that the player only recognises it once later Dispensations show what it grows into. Materials: raw rock, bone and tusk, hide, branches, ochre, fire.
 
-- Temple: the painted cave. A crag with a dark mouth lit by a fire inside, ochre hand prints, a tusk arch, offering stones.
+- Temple: the opening in the earth. A dark hole in the ground with a low ring of stones, worn steps going down toward a faint glow, ochre hand prints on the rim, footprints leading out, two tusks and an offering stone.
 - Home: a branch windbreak, a hide to sleep on, a small fire.
 - School: a flat rock where flint is struck, with chips around it and one marked stone.
 - Market: a marked stone and two hides laid out with shells and flint.
