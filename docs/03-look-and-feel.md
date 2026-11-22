@@ -55,6 +55,8 @@ The Watch is a generated land, not a hand-placed diorama. The render style (step
 | 7 The Other Fold / The Great Apostasy | Stone hall with twin towers | Timber-frame houses, cloister school, market hall, mill, keep | Stone walls, mill races | Dense towns, slate roofs |
 | 8 The Fulness | White modern temple with one spire and a gold finial | Brick houses, domed university, store, silos, civic hall, towers | Rail, power lines, factories | Cities, most land worked |
 
+**Final asset pass (set 2026-11-21).** The current Watch boards and buildings are blockouts. At the end, every Watch board and building is redrawn with more detailed, less polygonal surfaces and finer detail, changing little about style, layout or structure.
+
 **Branching options (added 2026-11-21).** The Watch needs a building set for each new option in doc 02: The Waking, The Far Isles, The Lotus Kingdoms, The Jade Court, The Marble Cities, The Kept Lamp, The Rebirth, The Gathering and The Thousand Years. They are reviewed one at a time like the first eight and recorded below as each is posted.
 
 ### Buildings by Dispensation (reviewed one at a time from 2026-11-21)
@@ -108,7 +110,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the watering hole. Pool, reeds, berry bushes, a young mammoth drinking.
 - Works: the mammoth herd.
 
-**The Wandering: The Far Isles** (in review). A people who read the stars and the swells and cross the great ocean to islands no one has seen. Small, scattered, free, bound together by the canoe. Materials: black basalt platforms, steep golden thatch, lashed dark timber, white bark cloth with red bands, red and yellow feather standards, palms.
+**The Wandering: The Far Isles** (approved, with its own map: the people have voyaged out to sea, so the Watch land for this option is small islands and lagoons in open ocean, not the usual continent). A people who read the stars and the swells and cross the great ocean to islands no one has seen. Small, scattered, free, bound together by the canoe. Materials: black basalt platforms, steep golden thatch, lashed dark timber, white bark cloth with red bands, red and yellow feather standards, palms.
 
 - Temple: the stone platform. Two basalt terraces, a row of upright stones, a tall lashed tower wrapped in white cloth, a thatched sacred house, an offering stand, drums, carved banded posts, torches.
 - Home: the thatched house on a stone footing with a porch, a cook shelter, a taro patch, bananas and a small outrigger.

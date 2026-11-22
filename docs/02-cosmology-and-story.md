@@ -67,6 +67,7 @@ Rules for the new options:
 - Every option gets its own card style, eight Watch buildings, a signature Trial and world conditions, the same as the original eight.
 - Other cultures are shown through architecture, materials and daily life only. No real scripture, prophets, religious names or symbols. The Gathering evokes its time and place without naming anyone.
 - The new in-game names are working names until reviewed.
+- **Each Dispensation refers to God very differently.** The people of every option have their own name and way of speaking of the player (to be written per option in doc 06 during the redraw of assets and game dynamics): cards, prayers, the Testament and the Voice all use that Dispensation's form of address.
 - The Thousand Years is an alternative to The Fulness, not an extra level. The endless levels are unchanged.
 - This replaces the old rule that only Dispensation 7 was drawn from a pool.
 
