@@ -121,15 +121,15 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the taro terraces. Flooded stepped paddies with water channels, bananas, palms.
 - Works: the voyaging canoe. Twin hulls, a deck hut and two claw sails at a lagoon beach, with a canoe shed.
 
-**The Law: The Lotus Kingdoms** (in review, round 2: more Hindu and Buddhist architecture, varied across the set). River kingdoms of the warm south: crowded, colourful and devout, where law is duty and every act is weighed. Materials: red sandstone, cream plaster, white domes, painted gate towers, saffron, magenta and turquoise cloth, strings of prayer flags, gold finials, lamp towers, lotus pools.
+**The Law: The Lotus Kingdoms** (in review, round 3: must read unmistakably as India. Onion domes on every pavilion, cusped arches, a pink palace of windows, blue-washed houses with balcony bays, marigold garlands, a four-part water garden with cypresses and peacocks, elephants with howdahs; plus the Hindu and Buddhist architecture of round 2). River kingdoms of the warm south: crowded, colourful and devout, where law is duty and every act is weighed. Materials: red sandstone, cream plaster, white domes, painted gate towers, saffron, magenta and turquoise cloth, strings of prayer flags, gold finials, lamp towers, lotus pools.
 
 - Temple: the tower shrine. A tall curving stone tower with a ribbed cap and gold finial, a painted tiered gate tower in front, a pillared porch, small towers, a lotus tank, a lamp tower, a bell, prayer flags.
-- Home: the courtyard house. Flat-roofed plaster house with a roof room and small roof dome, striped awning, a plant pedestal in the yard, a painted doorstep pattern.
+- Home: the blue house. Blue-washed house with white parapets, projecting arched balcony bays, a roof room with an onion dome, a garlanded arched door, a painted doorstep pattern, a rope cot.
 - School: the monastery and great dome. Brick cell ranges with arched doors around a white relic dome with a gold umbrella spire, a stone railing and four gateways, a tree on a platform, small votive domes, prayer flags.
 - Market: the bazaar. Arcaded shops, cloth-roofed stalls of spice, cloth and fruit, an elephant, and a wheeled festival chariot with a tiered canopy.
 - Granary: the domed granaries. Banded brick drums with plaster domes, sacks, an ox cart, a wayside shrine and bell.
-- Court: the pillared hall. A forest of columns with a horseshoe arch over the entrance, roof pavilions, a gold seat, a gateway of three lintels, a lamp tower, an elephant.
-- Garden: the lotus pool. A square pool with a domed pavilion, a row of votive domes, bathing steps with floating lamps, prayer flags, mango trees, a peacock.
+- Court: the palace of windows. Four stepped tiers of pink stone covered in small arched windows and balcony bays, white trim, onion-domed pavilions and corner towers, an elephant with a howdah.
+- Garden: the four-part garden. Crossing water channels, a white marble pavilion with an onion dome at the centre, flower beds, cypresses, mango trees, peacocks.
 - Works: the stepwell. Stepped terraces down to water, corner pavilions, a colonnade, a gateway.
 
 **The Law: The Vermilion Gate** (in review; was "The Jade Court"). The East Asian option, set by the person as **one blend of samurai castle town and shrine style**. Island warriors bound by an unwritten code, and shrine keepers who tend the places where the unseen touches the land. Materials: white plaster, dark timber frames, grey tile with upturned eaves, vermilion gates and fences, stone lanterns, pine and cherry blossom.
