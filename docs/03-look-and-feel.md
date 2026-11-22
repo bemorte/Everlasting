@@ -165,7 +165,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the four rivers garden. Four beds split by water channels, an eight-pointed basin, a domed kiosk, palms, orange trees, roses.
 - Works: the great waterwheel. A tall wooden wheel with clay pots lifting river water into an arched channel, with plots beside it.
 
-**The Awakening: The Rebirth** (in review, round 2: rebuilt around the hallmarks of Italian Renaissance art and architecture). The world wakes up curious. Merchants, painters, sculptors, printers and inventors measure everything again and trust what they can see. Materials: striped and inlaid white, green and pink marble, a ribbed terracotta dome, pink diamond-patterned canal palaces with white arcades, marble statues everywhere, round arches, terracotta roofs, cypress, canals.
+**The Awakening: The Rebirth** (approved at round 2: rebuilt around the hallmarks of Italian Renaissance art and architecture). The world wakes up curious. Merchants, painters, sculptors, printers and inventors measure everything again and trust what they can see. Materials: striped and inlaid white, green and pink marble, a ribbed terracotta dome, pink diamond-patterned canal palaces with white arcades, marble statues everywhere, round arches, terracotta roofs, cypress, canals.
 
 - Temple: the great dome. The ribbed terracotta dome leads, over an inlaid marble church with a round window, bronze doors and statues on the front; a striped bell tower behind; an eight-sided striped baptistery with gold doors; a chequered square.
 - Home: the canal palace. A pink palace with a white diamond pattern, two tiers of pointed white arcades and a toothed white parapet, on a canal with gondolas, striped mooring poles and a small arched bridge.
@@ -175,6 +175,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Court: town hall and statue loggia. A fortress-like block with battlements and a tall clock tower, statues at the door, a three-arched loggia sheltering statues, a fountain, a chequered square.
 - Garden: the hedge garden. Clipped hedge beds, a tiered fountain, statues, a water stair and grotto, lemon pots, a cypress row, a pergola.
 - Works: the inventor's workshop. An open-fronted shop with a screw press and drying sheets, a winged flying machine on a stand, a brass ringed sphere, an easel.
+
+**The Awakening: The Gathering** (in review). A people gather on the frontier in the 1830s and 1840s and build a city from nothing beside a wide river. Materials: squared logs, red brick, white limestone, wood shingles, wagon canvas, picket and rail fences. It leans this way when Truth and Agency lead. It names no one and shows no real emblem.
+
+- Temple: the temple on the bluff. White limestone hall with pilasters, gold sun stones at the top of each and pale moon stones at the foot, a row of gold stars under the eaves, tall arched windows, and a tiered tower with a clock face, a green dome and a gold vane.
+- Home: the log cabin with a stone chimney, lean-to, porch, woodpile, chopping block, kitchen patch, a quilt line and a rail fence.
+- School: the white clapboard schoolhouse with a bell cupola, and a grove with log benches and a speaking stand.
+- Market: the red brick store with a porch and sign, barrels and crates, and a log smithy with a glowing forge.
+- Granary: the red barn with a hay door and hoist, haystacks, a corn crib and a yoke of oxen.
+- Court: the brick hall with a white columned porch, a cupola and a flag.
+- Garden: orchard, crop rows, sunflowers, bee skeps on a bench and a roofed well.
+- Works: the wagon company. Covered wagons, oxen, a handcart and a campfire. On the land the docks hold paddle steamers.
 
 ### The Revelation: illuminated eras (3b: A)
 
