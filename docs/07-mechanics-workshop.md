@@ -49,6 +49,15 @@ Before any real UI or world, the rules are tested in three cheap steps, in order
 
 Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and Mini Motorways were tuned through long rough-prototype iteration; turn-based balance can be tested on paper, real-time balance cannot.
 
+## 6. Run-through 1 findings (2026-11-22)
+
+- **Shop is confusing.** Players cannot tell what to buy or why. Each item needs a "why this fits your run" line and a suit-bar preview.
+- **Collapse starts at 0**, so "−Collapse" on Command and Punish is wasted early. Start it around 20, or give those cards another early payoff.
+- **Agency drops fast.** One Command Flush took Agency to −10 in the first Era, and it never recovered above −9.
+- **Flushes land just short.** Both first flushes scored 288/300 and 440/450, so each Era took two hands, the same rhythm as Balatro's early blinds. Keep.
+- **Poker names were needed** to follow play; religious names moved to the Keys.
+- **Suit levels do nothing yet** beyond the preview. Still open.
+
 ---
 
 ## Open questions
