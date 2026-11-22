@@ -55,6 +55,8 @@ Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and 
 
 | # | Area | Question |
 |---|---|---|
+| S1 | Shop | The shop is confusing: players cannot tell what to buy or why. Each item needs a plain "why this fits your run" line (for example "Fits your Command Flush: +100 Witness on it") and a preview of its effect on the suit bars. Found in run-through 1 |
+| K1 | Keys | Name the Keys as a set of god frameworks (High Card = one true god, Flush = pantheon, Straight = Olympus...). Being narrowed with cards |
 | N1 | Naming | Which gets renamed: the card phase or the first Era? |
 | R1 | Witness | How often does the pick of seven happen? |
 | R2 | Witness | What does the chosen person do in the next card phase? |

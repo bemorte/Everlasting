@@ -51,6 +51,8 @@ def evaluate(cards, s):
     dial = Counter()
     for c in scoring:
         for k, v in T["dial_per_scored_card"][c[0]].items(): dial[k] += v
+    if "Lawgiver" in s.get("powers", []):
+        nc = sum(1 for c in scoring if c[0] == "Command"); w += 20 * nc; dial["Agency"] -= 2 * nc
     return name, scoring, w, g, w * g, suit_delta, dial
 
 def bar(v, d=0, width=10):
@@ -84,7 +86,8 @@ def status(s):
             f"hands {s['hands']} · discards {s['discards']} · Light {s['light']}\n"
             "Hand: " + "  ".join(f"[{i}] {label(c)}" for i, c in hand) + "\n"
             "Levels: " + "  ".join(f"{su} {s['levels'][su]}" for su in T["suits"]) + "\n"
-            "Dials: " + "  ".join(f"{d} {s['dials'][d]}" for d in DIALS))
+            "Dials: " + "  ".join(f"{d} {s['dials'][d]}" for d in DIALS) + "\n"
+            "Powers: " + (", ".join(s.get("powers", [])) or "none") + " · Hand levels: " + (", ".join(f"{k} {v}" for k, v in s["hand_levels"].items()) or "all 1"))
 
 def pick(s, args):
     idx = sorted({int(a) for a in args}, reverse=True)
@@ -127,6 +130,12 @@ def main():
             idx, cards = pick(s, args); assert len(cards) <= T["max_play"]
             for i in idx: s["hand"].pop(i - 1)
             s["discards"] -= 1; draw(s)
+        elif cmd == "buy":   # buy POWER name / buy KEY hand / light cost last
+            kind, name, cost = args[0], " ".join(args[1:-1]), int(args[-1])
+            assert s["light"] >= cost, "not enough Light"
+            s["light"] -= cost
+            if kind == "power": s.setdefault("powers", []).append(name)
+            else: s["hand_levels"][name] = s["hand_levels"].get(name, 1) + 1
         elif cmd != "show": print(__doc__); return
     json.dump(s, open(STATE, "w"))
     print("\n" + status(s))
