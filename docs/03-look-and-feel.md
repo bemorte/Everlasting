@@ -176,7 +176,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the hedge garden. Clipped hedge beds, a tiered fountain, statues, a water stair and grotto, lemon pots, a cypress row, a pergola.
 - Works: the inventor's workshop. An open-fronted shop with a screw press and drying sheets, a winged flying machine on a stand, a brass ringed sphere, an easel.
 
-**The Awakening: The Gathering** (in review). A people gather on the frontier in the 1830s and 1840s and build a city from nothing beside a wide river. Materials: squared logs, red brick, white limestone, wood shingles, wagon canvas, picket and rail fences. It leans this way when Truth and Agency lead. It names no one and shows no real emblem.
+**The Awakening: The Gathering** (approved). A people gather on the frontier in the 1830s and 1840s and build a city from nothing beside a wide river. Materials: squared logs, red brick, white limestone, wood shingles, wagon canvas, picket and rail fences. It leans this way when Truth and Agency lead. It names no one and shows no real emblem.
 
 - Temple: the temple on the bluff. White limestone hall with pilasters, gold sun stones at the top of each and pale moon stones at the foot, a row of gold stars under the eaves, tall arched windows, and a tiered tower with a clock face, a green dome and a gold vane.
 - Home: the log cabin with a stone chimney, lean-to, porch, woodpile, chopping block, kitchen patch, a quilt line and a rail fence.
@@ -186,6 +186,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Court: the brick hall with a white columned porch, a cupola and a flag.
 - Garden: orchard, crop rows, sunflowers, bee skeps on a bench and a roofed well.
 - Works: the wagon company. Covered wagons, oxen, a handcart and a campfire. On the land the docks hold paddle steamers.
+
+**The Fulness: The Thousand Years** (in review). The far future option for the last slot: a healed world long after the troubles, where the city and the garden have become one thing. Materials: pearl white, clear blue glass, gold rings, running water, and green growing on every roof and ledge. No smoke, no vehicles on the ground, nothing for sale.
+
+- Temple: the city of light. A round terraced hall with a tall central spire, twelve smaller spires in a ring, floating gold rings, and four streams running out from under it to the edges of the tile.
+- Home: the garden dwelling. Rounded white homes with glass domes and green roofs, a pond, a kitchen patch, fruit trees and a sun flower collector.
+- School: the hall of all learning. A glass observatory dome, a twisting library tower and a floating model of the heavens in gold rings.
+- Market: the open table. Tall white canopy trees shading long tables of fruit and a fountain. Nothing is bought or sold.
+- Granary: the growing tower. Stacked glass floors with a planted ring on every level, glass seed domes and round fields.
+- Court: the council ring. Twelve white seats in a circle around a light, under a great gold ring.
+- Garden: the healed garden. A white-trunked tree with shining fruit beside a stream, and a lion resting among lambs.
+- Works: the living tower with a sky ship at its mooring. Light masts replace the power lines.
 
 ### The Revelation: illuminated eras (3b: A)
 
