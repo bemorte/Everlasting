@@ -23,7 +23,7 @@ Guidance for Claude Code when working in this repository.
 
 ## Vocabulary
 
-Dispensation (ante) · Era: Morning, Noon, Trial (blinds) · Revelation (card phase) · Watch (sim phase) · Witness × Glory (chips × mult) · Godhood Powers (jokers) · Keys (planets) · Tablets (tarots) · Mantles (vouchers) · Veils (stakes) · Light (shop currency) · Devotion, Insight, Plenty, Harmony (Watch currencies) · Dials: Truth, Joy, Progress, Redemption, Agency · Collapse (loss meter) · The Records (persistent trained people model)
+Dispensation (ante; eight slots per run, two fixed and six chosen by the people, see doc 02) · Era: Morning, Noon, Trial (blinds) · Revelation (card phase) · Watch (sim phase) · Witness × Glory (chips × mult) · Godhood Powers (jokers) · Keys (planets) · Tablets (tarots) · Mantles (vouchers) · Veils (stakes) · Light (shop currency) · Devotion, Insight, Plenty, Harmony (Watch currencies) · Dials: Truth, Joy, Progress, Redemption, Agency · Collapse (loss meter) · The Records (persistent trained people model)
 
 ## Planned code layout (not created yet)
 

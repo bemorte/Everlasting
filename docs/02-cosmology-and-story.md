@@ -37,7 +37,40 @@ The left column below is **internal reference only** (for the team and for Claud
 | Book of remembrance, records kept | **The Records** | The persistent, trained people model and the history of your past worlds. It is the narrative frame for the AI in doc 05. |
 | Kolob, the governing star | **The Near Star** | Visual anchor on the title screen and the map's sky. Lore only. |
 
-## The Eight Dispensations
+## The eight slots and their branches (settled 2026-11-21)
+
+A run still plays **eight Dispensations**, but they are now **slots**. The first two are fixed. Each of the other six has two to four options, and **the people decide** which one the world becomes: at the end of a slot the engine scores every option in the next slot from the dials and from what the people did in the Watch, and the highest score wins (ties broken by the seeded RNG). The player steers only through play. There are 18 Dispensations in all and a run sees 8.
+
+| Slot | Options (in-game name, internal ref) | The people lean this way when… |
+|---|---|---|
+| 1 **Before the Dawn** (fixed) | **The Waking** (earliest humanity: caves, mammoths, first fire) | always |
+| 2 **Dawn** (fixed) | **Dawn** (Adam) | always |
+| 3 **The Wandering** | **The Walking City** (Enoch) | Harmony and Joy lead |
+| | **The Waters** (Noah) | Collapse is high or Truth is low |
+| | **The Covenant** (Abraham) | Truth and Devotion lead |
+| | **The Far Isles** (Pacific voyagers, islands of the sea) | Agency and Progress lead; the people spread out |
+| 4 **The Law** | **The Law** (Moses) | Truth leads; Agency is under strain |
+| | **The Lotus Kingdoms** (ancient India) | Joy and Redemption lead |
+| | **The Jade Court** (ancient East Asia) | Progress and Harmony lead; Agency is low |
+| 5 **The Meridian** | **The Meridian** (Christ; Roman world) | Redemption leads |
+| | **The Marble Cities** (ancient Greece) | Agency and Insight lead |
+| 6 **The Long Night** | **The Other Fold** (Lehi, scattered branches) | Truth is held by a few; the people are scattered |
+| | **The Great Apostasy** (the long dark age) | Truth is low |
+| | **The Kept Lamp** (Islamic golden age) | Progress and Insight lead while Truth is middling |
+| 7 **The Awakening** | **The Rebirth** (Renaissance) | Progress and Joy lead |
+| | **The Gathering** (American frontier, 1830s and 1840s) | Truth and Agency lead |
+| 8 **The Fulness** | **The Fulness** (Restoration, latter days) | default |
+| | **The Thousand Years** (the far future, the millennial day) | every dial is high and Collapse is low |
+
+Rules for the new options:
+
+- Every option gets its own card style, eight Watch buildings, a signature Trial and world conditions, the same as the original eight.
+- Other cultures are shown through architecture, materials and daily life only. No real scripture, prophets, religious names or symbols. The Gathering evokes its time and place without naming anyone.
+- The new in-game names are working names until reviewed.
+- The Thousand Years is an alternative to The Fulness, not an extra level. The endless levels are unchanged.
+- This replaces the old rule that only Dispensation 7 was drawn from a pool.
+
+## The original eight Dispensations
 
 Each is a distinct visual style (doc 03) and a different set of world conditions. Names are in-game names; the internal reference sits in parentheses for the team.
 
@@ -96,7 +129,7 @@ There is **no mandatory adversary NPC.** Opposition comes from three sources:
 
 | # | Question | Decision |
 |---|---|---|
-| 1 | Dispensation 7 | **Random from a pool each run** (The Other Fold, The Great Apostasy, more later) |
+| 1 | Dispensation 7 | ~~Random from a pool each run~~ Superseded 2026-11-21: eight slots, two fixed and six branching, **the people decide** each branch (see "The eight slots and their branches") |
 | 2 | Lifting a City of One Heart | **Leaves the map and grants a permanent run-wide multiplier** |
 | 3 | The Deluge Trial | **Always optional**, with heavy Agency and Joy costs |
 | 4 | Lore depth | **A scripture written by your people each run** (the Testament) |

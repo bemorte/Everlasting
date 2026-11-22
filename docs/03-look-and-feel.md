@@ -55,6 +55,8 @@ The Watch is a generated land, not a hand-placed diorama. The render style (step
 | 7 The Other Fold / The Great Apostasy | Stone hall with twin towers | Timber-frame houses, cloister school, market hall, mill, keep | Stone walls, mill races | Dense towns, slate roofs |
 | 8 The Fulness | White modern temple with one spire and a gold finial | Brick houses, domed university, store, silos, civic hall, towers | Rail, power lines, factories | Cities, most land worked |
 
+**Branching options (added 2026-11-21).** The Watch needs a building set for each new option in doc 02: The Waking, The Far Isles, The Lotus Kingdoms, The Jade Court, The Marble Cities, The Kept Lamp, The Rebirth, The Gathering and The Thousand Years. They are reviewed one at a time like the first eight and recorded below as each is posted.
+
 ### Buildings by Dispensation (reviewed one at a time from 2026-11-21)
 
 Each Dispensation's buildings must evoke their period through material, silhouette and ornament, not only through size. Every building sits fully inside its own tile. Reference sheets live in project files under `everlasting/review/` and the 3D models in `everlasting/brand/round6/models.js`.

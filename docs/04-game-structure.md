@@ -7,7 +7,7 @@
 ```
 The Council Before (pick starting Covenant deck + Veil difficulty)
 │
-├─ Dispensation 1 … 8
+├─ Dispensation slots 1 … 8 (1 and 2 fixed, 3 to 8 chosen by the people)
 │    ├─ Era: Morning   → Revelation (cards) → Shop → Watch (sim)
 │    ├─ Era: Noon      → Revelation (cards) → Shop → Watch (sim)
 │    └─ Era: Trial     → Revelation with boss modifier → Shop → Watch
@@ -19,6 +19,16 @@ The Council Before (pick starting Covenant deck + Veil difficulty)
 
 - **Length:** a core run of 8 Dispensations is designed for **30–60 minutes** if you keep Watches short. Players who linger in Watches can stretch a run across several sessions (autosave at every phase).
 - 24 Revelations per core run, plus up to 4 endless levels.
+
+### Branching Dispensations (settled 2026-11-21)
+
+The eight Dispensations of a run are **slots** (doc 02). Slots 1 and 2 are fixed (Before the Dawn, then Dawn). Slots 3 to 8 each hold two to four options.
+
+- **The people decide.** When a slot's Trial ends, the rules engine scores each option of the next slot with a weighted sum of the five dials, Collapse and Watch behaviour counters (how far the people spread, how many temples stand, how long the player lingered). The top score becomes the next Dispensation. Ties are broken by the seeded RNG, so a run stays reproducible from its seed.
+- The player is never shown a menu. A short omen before the Trial hints at where the people are leaning, so a player can still play toward a path.
+- The weights live in a data file with the other tuning numbers.
+- Run length, the three Eras per slot and Era targets are unchanged. Targets scale by slot, not by which option is in it.
+- Unlocks can depend on the path (for example, reaching The Thousand Years).
 
 ## The world's state
 
