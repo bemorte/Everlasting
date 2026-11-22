@@ -80,8 +80,20 @@ Temple: the white and gold sanctuary. A towering marble front with engaged colum
 **7a The Other Fold** (approved, revised toward Book of Mormon imagery). A branch of the people carried across the sea, building great cities in a lush new land. Look to the tradition of Book of Mormon illustration: massive coursed stone, heavy pillars, gold crenellated cornices, red cloth, cement houses, timber and earth defences, deep forest. Materials: warm massive stone, gold, pale cement, red and turquoise trim, thatch on stores and towers.
 Temple: the temple on the terrace. A tall stone house in the manner of The Law's temple, with two gold-capped pillars, a gold door and a gold battlemented roof, set on a three-step terrace with two grand stairs and braziers. Home: a two-level cement house with roof terrace, beside a striped family tent and a maize plot. School: the house of records, a strong stone hall with a corner tower, gold door, a stack of gold plates on a stand and a gold ball on a pedestal. Market: the plaza, cloth canopies before a red-pillared hall with a painted frieze and gold roof edge. Granary: round stone storehouses with conical thatch. Court: the judgment seat, a gold seat under a green canopy before a pillared hall, with a written banner on a tall pole and a speaking tower. Garden: the waters in the forest, a waterfall pool among rocks, palms and flowering trees. Works: timber watchtower inside a palisade on an earth bank. Harbour: a large timber ship at the quay.
 
-**7b The Great Apostasy** (in review). The long dark age. Authority is lost and belief hardens into tradition; building is taller and more skilled than ever, but the light has gone out of it. Materials: grey coursed stone, dark slate, timber framing over plaster, coloured glass, cobbles. There is no fire or smoke on the temple and almost no gold. Nothing is cross shaped.
+**7b The Great Apostasy** (approved). The long dark age. Authority is lost and belief hardens into tradition; building is taller and more skilled than ever, but the light has gone out of it. Materials: grey coursed stone, dark slate, timber framing over plaster, coloured glass, cobbles. There is no fire or smoke on the temple and almost no gold. Nothing is cross shaped.
 Temple: the great minster. Twin spired towers, a steep slate nave with buttresses and coloured glass, a round window and a rounded east end; magnificent and cold, with no altar fire. Home: timber-framed houses over stone ground floors with steep slate roofs and smoking chimneys around a well. School: the cloister, an arcaded court and garden beside a tall-windowed hall and bell turret. Market: the market hall, a timber hall over open stone arches with a clock turret, stalls and a market pillar. Granary: the great barn with buttresses, cart doors and a hay wagon. Court: the keep, a square tower with round corner turrets, gatehouse and green banners on a mound. Garden: the walled herb garden with beds, a roofed well, beehives and a dovecote. Works: the watermill.
+
+**8 The Fulness** (in review). The restored and modern world. Everything lost comes back at once and the people build higher and faster than any age before; the Trial is The Last Crisis. Materials: white granite, red brick, white trim, glass, steel, concrete, asphalt, green copper domes.
+
+- Temple: the granite temple. Six spires in two groups of three, the tallest on the east with a gold finial, round and arched windows, lawn, flower beds, reflecting pool, iron fence.
+- Home: brick family house with a porch, chimney, garage, car and picket fence.
+- School: the university. Brick hall with a white portico and blue dome, glass library, quad.
+- Market: the department store. Glass front, striped awning, sign, car park, delivery truck.
+- Granary: the grain elevator. Concrete silos, headhouse, conveyor, freight train on a siding.
+- Court: the capitol. Columned porch, colonnaded drum, green copper dome, flags.
+- Garden: the city park. Fountain, gazebo, crossing paths, flower beds, lamps, benches.
+- Works: the glass tower, with brick factories (sawtooth roofs, stacks) and lattice pylons on the land.
+
 
 ### The Revelation: illuminated eras (3b: A)
 
