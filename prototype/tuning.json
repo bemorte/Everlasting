@@ -1,0 +1,34 @@
+{
+  "_note": "Prototype v0 starting numbers. Copied from Balatro where an analog exists, then bent. Tune here, not in code.",
+  "hand_size": 8,
+  "max_play": 5,
+  "hands_per_era": 4,
+  "discards_per_era": 3,
+  "suits": ["Command", "Punish", "Inspire", "Reveal"],
+  "rank_witness": {"1": 11, "11": 10, "12": 10, "13": 10},
+  "hand_types": {
+    "A Word":          [5, 1],
+    "Two Witnesses":   [10, 2],
+    "Covenant":        [20, 2],
+    "Presidency":      [30, 3],
+    "Ladder":          [30, 4],
+    "One Voice":       [35, 4],
+    "Full Witness":    [45, 5],
+    "Council":         [40, 4],
+    "Four Corners":    [60, 7],
+    "Fulness":         [100, 8]
+  },
+  "targets": [
+    [300, 450, 600], [800, 1200, 1600], [2000, 3000, 4000], [5000, 7500, 10000],
+    [11000, 16500, 22000], [20000, 30000, 40000], [35000, 52500, 70000], [50000, 75000, 100000]
+  ],
+  "era_names": ["The Revelation", "The Kingdom", "The Faith Crisis"],
+  "light": {"era_reward": [3, 4, 5], "per_unused_hand": 1, "interest_per": 5, "interest_cap": 5},
+  "suit_level_per_card": 1,
+  "dial_per_scored_card": {
+    "Command": {"Agency": -2, "Progress": -1, "Collapse": -1},
+    "Punish":  {"Joy": -2, "Truth": 1, "Collapse": -2},
+    "Inspire": {"Progress": 2, "Joy": 1, "Agency": 1},
+    "Reveal":  {"Truth": 2, "Redemption": 2, "Agency": -2}
+  }
+}
