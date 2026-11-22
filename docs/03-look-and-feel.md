@@ -165,16 +165,16 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the four rivers garden. Four beds split by water channels, an eight-pointed basin, a domed kiosk, palms, orange trees, roses.
 - Works: the great waterwheel. A tall wooden wheel with clay pots lifting river water into an arched channel, with plots beside it.
 
-**The Awakening: The Rebirth** (in review). The world wakes up curious. Merchants, painters, printers and star watchers measure everything again and trust what they can see. Materials: ochre stucco over rough stone ground floors, striped white, green and pink marble, terracotta roofs and dome, round arches, cypress.
+**The Awakening: The Rebirth** (in review, round 2: rebuilt around the hallmarks of Italian Renaissance art and architecture). The world wakes up curious. Merchants, painters, sculptors, printers and inventors measure everything again and trust what they can see. Materials: striped and inlaid white, green and pink marble, a ribbed terracotta dome, pink diamond-patterned canal palaces with white arcades, marble statues everywhere, round arches, terracotta roofs, cypress, canals.
 
-- Temple: the great dome. A striped marble church with a round window and bronze doors, an eight-sided ribbed terracotta dome with a white lantern and gold ball, and a tall striped bell tower.
-- Home: the merchant palace. Three storeys of arched windows over a rough stone base, a deep cornice and tiled roof, a shop awning, a side loggia with a roof terrace and lemon pots.
-- School: university and star tower. Two wings with arcades around a green court, a round tower with a metal dome and telescope, a globe, books.
-- Market: the arcade hall. An open arcaded hall with a room above, stalls, a fountain, a money changer's table, a cart of barrels.
-- Granary: the guild warehouse. Tall brick warehouse with arched bays and a hoist, barrels, sacks, a wagon.
-- Court: the towered town hall. A fortress-like stone block with battlements and a tall clock tower, a fountain and an obelisk on the square.
-- Garden: the hedge garden. Four clipped hedge beds in patterns, a tiered fountain, lemon pots, a cypress row, a pergola, a marble rail.
-- Works: the printing house. An open-fronted shop with a screw press, sheets drying on a line, stacks of books.
+- Temple: the great dome. The ribbed terracotta dome leads, over an inlaid marble church with a round window, bronze doors and statues on the front; a striped bell tower behind; an eight-sided striped baptistery with gold doors; a chequered square.
+- Home: the canal palace. A pink palace with a white diamond pattern, two tiers of pointed white arcades and a toothed white parapet, on a canal with gondolas, striped mooring poles and a small arched bridge.
+- School: the villa of the arts. A white villa with a columned porch, pediment and low dome, statues on the roof; a sculptor's yard with a marble block and a tall statue; painters' easels.
+- Market: the bridge of shops. A three-arched stone bridge crowded with small overhanging shop houses, a market arcade and merchant house on the bank, a gondola.
+- Granary: warehouse and vineyard. A tall brick warehouse with arched bays, a hoist and a painted panel, barrels, a wagon, vine rows.
+- Court: town hall and statue loggia. A fortress-like block with battlements and a tall clock tower, statues at the door, a three-arched loggia sheltering statues, a fountain, a chequered square.
+- Garden: the hedge garden. Clipped hedge beds, a tiered fountain, statues, a water stair and grotto, lemon pots, a cypress row, a pergola.
+- Works: the inventor's workshop. An open-fronted shop with a screw press and drying sheets, a winged flying machine on a stand, a brass ringed sphere, an easel.
 
 ### The Revelation: illuminated eras (3b: A)
 
