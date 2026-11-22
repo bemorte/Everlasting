@@ -44,7 +44,7 @@ The core design rule from 1a/1b: **in the Revelation you make point-in-turn choi
 ## Mini Motorways → the Watch layer's hands-on play
 
 **What we take**
-- **Routing, kept light.** Tap two settlements to connect them, and prophets, scholars and traders travel the route. Ideas move along routes; missing or overloaded routes create bottlenecks (unrest, isolation, heresy hotspots). No tile-by-tile road drawing, so it stays comfortable on a phone.
+- **Routing, kept light.** (Updated 2026-11-22: drag a path, Mini Motorways style, and believers walk it; see doc 07.) Tap two settlements to connect them, and prophets, scholars and traders travel the route. Ideas move along routes; missing or overloaded routes create bottlenecks (unrest, isolation, heresy hotspots). No tile-by-tile road drawing, so it stays comfortable on a phone.
 - **Escalating pressure over time.** The longer you stay in a Watch, the more settlements appear and the more demand piles up. This is the cost of lingering (from 4b).
 - **Leaving a Watch.** Every Watch lasts at least **one in-game year** (one full seasonal cycle). After that, you tap **Reveal Yourself** whenever you are ready to start the next Era.
 - **Limited weekly-style upgrades.** At intervals you pick one of two gifts (a temple, a school, a bridge, a granary).
@@ -54,7 +54,7 @@ The core design rule from 1a/1b: **in the Revelation you make point-in-turn choi
 
 **What we take (1b: "B-ish")**
 - **Placing structures** that change how people nearby feel and behave: temples, schools, markets, libraries, hospitals, watchtowers, gardens.
-- **Per-person thought bubbles.** Tap a person to see a single short thought ("I wish the river road was safer"). Deliberately just one line, no biography screen. This is our main window into the non-deterministic people.
+- **Per-person thought bubbles.** Tap a person to see a single short thought ("I wish the river road was safer"). Deliberately just one line, no biography screen. The one exception is the witness pick once per Dispensation (doc 07), which shows seven short biographies. This is our main window into the non-deterministic people.
 - **Upkeep and wear.** Structures decay or get corrupted if neglected.
 
 **What we skip**

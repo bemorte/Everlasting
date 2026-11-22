@@ -94,6 +94,7 @@ Religions, empires, art movements and sciences are not scripted. They **emerge**
 | **Religion names and doctrines** | The sim picks a structured doctrine: a set of 4–8 **tenets** from a fixed vocabulary (≈ 60 tenets), each tagged true, partial or corrupt relative to the game's hidden "true" set. Truth is computed from tenets, **never from prose**. The LLM only names the faith and phrases its creed. |
 | **Chronicle entries** | Given a structured event (who, what, where, outcome), it writes 1–3 sentences in the voice of the Dispensation. |
 | **The Testament** (your people's scripture) | Assembled from Chronicle events, Witness revelations and the doctrine tenets. The LLM phrases short verses; structure and accuracy come from the sim. |
+| **Witness biographies** | Once per Dispensation the engine picks seven people and their exact effects (doc 07); the Voice writes a short bio for each from their sim state. Templates write it when no LLM is available |
 | **Event and crisis text** | Fills a template slot for a crisis the rules engine already chose. |
 | **Names** | People, places, faiths, dynasties, styled per culture trait. |
 | **Art** (5c: C) | **Not by image model.** Art variation comes from the parametric style system in doc 03, driven by culture traits the sim produces. See viability below. |
