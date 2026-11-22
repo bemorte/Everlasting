@@ -143,7 +143,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the pond garden. Pond, arched vermilion bridge, cherry trees, pine, lantern, raked gravel, tea hut.
 - Works: the swordsmith. Forge hall with chimney, anvil, quench tub, sword rack, armour stand.
 
-**The Meridian: The Marble Cities** (in review). Small free cities of thinkers, sailors and arguers, each proud and none willing to be ruled. Materials: white marble with painted blue and red trim and gold roof ornaments, whitewashed walls, terracotta tile, olive and cypress.
+**The Meridian: The Marble Cities** (approved). Small free cities of thinkers, sailors and arguers, each proud and none willing to be ruled. Materials: white marble with painted blue and red trim and gold roof ornaments, whitewashed walls, terracotta tile, olive and cypress.
 
 - Temple: the hilltop temple. A colonnaded marble temple with a painted frieze and blue pediment on a rock outcrop, a small treasury, an altar fire, bronze tripods, a stair up the rock.
 - Home: the courtyard house. Whitewashed rooms with tile roofs around a paved court with a basin, a porch, a walled yard, amphorae, a loom.
@@ -153,6 +153,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Court: the hillside theatre. A half circle of stepped stone seats around a round floor, with a stage building.
 - Garden: the round shrine and spring. A ring of columns under a conical roof, a spring basin, olives, cypresses, flowers.
 - Works: the war galley. A ram-prowed oared ship with a striped sail at ship sheds on the harbour.
+
+**The Long Night: The Kept Lamp** (in review). While other lands forget, the desert cities gather every book they can find, copy it, argue with it and add to it. Scholars, merchants and star watchers. Materials: sand brick, turquoise and deep blue domes, blue and white tile, red and white striped arches, carved wooden lattice, toothed parapets, palms and orange trees.
+
+- Temple: the great mosque. A turquoise dome over the prayer hall with two small blue domes, an arcaded tile court with a washing fountain, a tiled portal, a tall and a short minaret.
+- Home: the courtyard house. Blank outer walls around a tiled court with a fountain and orange trees, lattice bay windows, a wind tower, a shaded roof terrace.
+- School: college and observatory. A great tiled arch portal, arcaded study cells around a tile court, an observatory dome with an open slit, a brass ringed sphere.
+- Market: the domed bazaar. A row of domed shops with awnings (spice, carpets, brass lamps, fruit), carpets laid out, a gate, a resting camel.
+- Granary: the caravan inn. A fortified square with corner towers and one great gate, arcades inside, bales, jars, camels.
+- Court: the palace court. Red walls and a tower with green tiled roofs, slender white arcades around a long pool and tile floor.
+- Garden: the four rivers garden. Four beds split by water channels, an eight-pointed basin, a domed kiosk, palms, orange trees, roses.
+- Works: the great waterwheel. A tall wooden wheel with clay pots lifting river water into an arched channel, with plots beside it.
 
 ### The Revelation: illuminated eras (3b: A)
 
