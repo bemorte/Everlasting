@@ -213,6 +213,8 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 
 **The Long Night: The Northern Halls (planned, working name).** A Viking society, to be built later: longships, a great timber hall, stave temple, turf-roofed longhouses, carved rune stones, a harbour and a law-rock assembly.
 
+**Final detail pass (in review, 2026-11-22).** A high-detail render mode that changes no structure or layout: softened edges, truly round forms, smooth lumpy trees and rocks with leaf clusters, and drawn surface detail chosen by material (roof shingles, brick bond, stone courses, plank lines). The person chose to push past smoothing alone to drawn detail. It applies to every building set and the land once the sample is approved.
+
 **Endless boards (on hold, by request 2026-11-22).** The four endless levels each need their own Watch board and building set: The Spirit World, Telestial, Terrestrial and Celestial.
 
 ### The Revelation: illuminated eras (3b: A)
