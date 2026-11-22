@@ -187,7 +187,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: orchard, crop rows, sunflowers, bee skeps on a bench and a roofed well.
 - Works: the wagon company. Covered wagons, oxen, a handcart and a campfire. On the land the docks hold paddle steamers.
 
-**The Fulness: The Thousand Years** (in review, round 3: started over as grounded futurism after two rejected rounds; no white shining city, nothing symbolic or floating). The bright far future is a place you could actually build: dense, green, walkable and still under construction. Materials: mass timber, brick, sandstone, weathered copper roofs, glass, dark blue solar, planted roofs and balconies. Trams and bicycles instead of cars.
+**The Fulness: The Thousand Years** (approved at round 3: started over as grounded futurism after two rejected rounds; no white shining city, nothing symbolic or floating). The bright far future is a place you could actually build: dense, green, walkable and still under construction. Materials: mass timber, brick, sandstone, weathered copper roofs, glass, dark blue solar, planted roofs and balconies. Trams and bicycles instead of cars.
 
 - Temple: sandstone hall with timber fins between tall windows, a copper roof, and one tower with a timber-and-glass lantern under a copper spire. Reflecting pool and lawn.
 - Home: timber terraces. Stepped timber apartments with planted balconies, roof solar, a brick townhouse, shared kitchen garden, greenhouse, heat pump and bike shelter.
@@ -198,7 +198,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the wetland park. Ponds, reeds, a boardwalk, a great tree, deer, beehives and a weather station.
 - Works: the timber tower, still rising, with a crane on its roof and a tram below. On the land, fusion plants (concrete and copper, with battery sheds and hydrogen tanks) replace factories and wind turbines replace power lines.
 
-**The Fulness: The Hollow Years** (in review, working name). The dark far future, the mirror of The Thousand Years: the same science, used on the people instead of for them. Materials: black glass, concrete, rust, smog, screens and neon in cyan, magenta and amber.
+**The Fulness: The Hollow Years** (approved, working name). The dark far future, the mirror of The Thousand Years: the same science, used on the people instead of for them. Materials: black glass, concrete, rust, smog, screens and neon in cyan, magenta and amber.
 
 - Temple: the fenced temple. The old stone temple, dark and scaffolded behind a fence, an advertising screen bolted beside it, one window and the door still lit.
 - Home: the stack. Container homes piled five high with walkways, stairs, washing lines and neon.
@@ -209,7 +209,9 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the last tree. One living tree under a glass dome behind a fence, with dead stumps outside.
 - Works: the black tower, lit windows and neon. On the land, smokestack plants and camera pylons.
 
-**Endless boards (planned).** The four endless levels each need their own Watch board and building set: The Spirit World, Telestial, Terrestrial and Celestial.
+**The Far Isles board (in review).** The Far Isles uses its own land: one volcanic home island and ten smaller islands in open sea, with villages on the nearest islands and the outer ones left wild to be reached. No roads cross water.
+
+**Endless boards (on hold, by request 2026-11-22).** The four endless levels each need their own Watch board and building set: The Spirit World, Telestial, Terrestrial and Celestial.
 
 ### The Revelation: illuminated eras (3b: A)
 

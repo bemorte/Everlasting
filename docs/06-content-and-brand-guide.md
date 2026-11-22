@@ -82,6 +82,39 @@ This guide is the single reference for what the game says, shows and sounds like
 
 Optional mid-game Godhood Powers with lore weight (never required; the people talk about whichever you use): **The Shadow** (people-given name each run), **The Lifted Hand** (rescue and atonement), **The Deluge**.
 
+## What each Dispensation calls you (added 2026-11-22, in review)
+
+The player is never named by the game itself. Each Dispensation's people have their own name for you and their own way of speaking to you, and the change of name is how the player feels the distance grow and close across a run. These names are invented. None is a real name of God from any faith, and none is a line of real scripture.
+
+Rules:
+
+- The name shows up in prayer bubbles, in the Testament the people write, in witness bios and in Trial text. Menus and tutorials just say "you".
+- Closeness follows the story: plain and near at the start, formal or lost in the middle, plain and near again at the end.
+- The Voice (LLM or template fallback) gets the name, the form of address and the sample line below as its style card for that Dispensation.
+- If the people drift far from the true tenets, they may start using a wrong name. That is a signal to the player, not an error.
+
+| Slot | Option | What they call you | How they speak to you | Sample prayer |
+|---|---|---|---|---|
+| 1 Before the Dawn | The Waking | **The Warmth** | No sentences yet. One or two words, said to the fire and the sky. | "Warmth. Stay." |
+| 2 Dawn | Dawn | **Father of Mornings** | Face to face, like a child to a parent. No ceremony. | "Father, the fruit came in. Come and see." |
+| 3 The Wandering | The Walking City | **The Walker Beside** | As a companion on the road, spoken to while moving. | "Walk with us one more day." |
+| | The Waters | **Keeper of the Deep** | With fear and respect, from the deck, eyes down. | "Keeper, hold the deep shut." |
+| | The Covenant | **The One Who Swore** | As a partner to a promise. They remind you of your word. | "You swore. We are still here." |
+| | The Far Isles | **The Star-Setter** | Sung, not spoken, in chants that name the stars in order. | "Star-Setter, set one over the next island." |
+| 4 The Law | The Law | **The Unspoken** | The name is never said aloud. Formal, exact, through the rites. | "To the One we do not name: we kept the measure." |
+| | The Lotus Kingdoms | **The Thousand-Named** | Every household has its own name for you and all are thought true. | "By whichever name you answer to, hear this house." |
+| | The Vermilion Gate | **The Lord Beyond the Gate** | Indirect and polite. They clap twice, bow and ask nothing outright. | "If it should please the Lord Beyond the Gate, the rice is planted." |
+| 5 The Meridian | The Meridian | **Father** | The plain word comes back. Short, private and trusting. | "Father, I am afraid, and I am going anyway." |
+| | The Marble Cities | **The First Mover** | Argued about more than prayed to. Questions, not requests. | "If you moved the first thing, what moved you to?" |
+| 6 The Long Night | The Other Fold | **The One Who Will Come** | Spoken forward in time, as a promise they wait on. | "Come soon. We have kept the place ready." |
+| | The Great Apostasy | **The Throne** | Distant, through go-betweens, in a language most cannot read. | "Let someone holier carry this up to the Throne." |
+| | The Kept Lamp | **The One of Many Praises** | Recited at set hours, with praise-names counted on the fingers. | "The One, the Patient, the Near: keep the lamp lit." |
+| 7 The Awakening | The Rebirth | **The Architect** | Admired through the work. They study what you made to know you. | "Architect, show me how the dome stands." |
+| | The Gathering | **Our Father in the heavens** | Aloud, kneeling, in their own words, expecting an answer. | "We have a question, and we mean to do what you say." |
+| 8 The Fulness | The Fulness | **Father** | Ordinary and daily, at kitchen tables. | "Father, thank you for today. Help us with tomorrow." |
+| | The Thousand Years | **The Gardener** | As a neighbour who is around. Thanks more than asking. | "Gardener, the wetland took. Come and walk it." |
+| | The Hollow Years | **The Old Light** | Whispered. The screens have another name for what to trust. | "Old Light, if you are still there, there are three of us." |
+
 ## Content scope for launch
 
 | Content | Target |
