@@ -77,3 +77,4 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 6 | W5 Spending | **A society tree, like Plague Inc**: points grow traits (writing, law, astronomy, charity...) that push society the player's way. Buying buildings with points is out; how buildings appear is still open (2026-11-22) |
 | 7 | W7 Failure in the Watch | **Overflow raises Collapse**: towns left waiting fill with unrest; each overflow adds Collapse, the Watch continues (2026-11-22) |
 | 8 | W8 Map growth | **Camera pulls out**, Mini Metro style: start on a small valley, the view widens as new towns appear at the edges (2026-11-22) |
+| 9 | W9 Watch length | **Player decides freely**: keep one in-game year minimum, then stay as long as you like as it gets harder (2026-11-22) |
