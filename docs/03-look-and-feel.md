@@ -121,6 +121,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the taro terraces. Flooded stepped paddies with water channels, bananas, palms.
 - Works: the voyaging canoe. Twin hulls, a deck hut and two claw sails at a lagoon beach, with a canoe shed.
 
+**The Law: The Lotus Kingdoms** (in review). River kingdoms of the warm south: crowded, colourful and devout, where law is duty and every act is weighed. Materials: red sandstone, cream plaster, carved banding, saffron, magenta and turquoise cloth, gold finials, lotus pools.
+
+- Temple: the tower shrine. A tall curving stone tower in banded tiers with a ribbed cap and gold finial, three small towers, a pillared porch, a lotus tank, bronze lamp posts.
+- Home: the courtyard house. Flat-roofed plaster house with a roof room and pavilion, striped awning, water jars.
+- School: the grove academy. Brick cloister ranges around a great banyan with teaching mats beneath it.
+- Market: the bazaar. Arcaded shops with striped awnings, cloth-roofed stalls of spice, cloth and fruit, an elephant.
+- Granary: the domed granaries. Three banded brick drums with plaster domes, sacks, an ox cart.
+- Court: the pillared hall. A forest of columns on a plinth with roof pavilions, a gold seat, standards, an elephant.
+- Garden: the lotus pool. A square pool with a domed pavilion at the centre, mango trees, flower borders, a peacock.
+- Works: the stepwell. Stepped terraces going down to water, corner pavilions, a colonnade.
+
 ### The Revelation: illuminated eras (3b: A)
 
 The same **structures and surfaces** every Dispensation: card frame, table, shop, score panel, dial gauges. Each Dispensation **restyles** them with its own palette, ornament, typography and material.
