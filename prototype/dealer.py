@@ -29,17 +29,17 @@ def classify(cards):
     straight = n == 5 and len(rs) == 5 and (rs[-1] - rs[0] == 4 or rs == [1, 10, 11, 12, 13])
     groups = sorted(cnt.values(), reverse=True)
     def of(k): return [c for c in cards if cnt[c[1]] >= k]
-    if straight and flush: return "Fulness", cards
-    if groups[0] >= 4: return "Four Corners", of(4)
-    if groups[:2] == [3, 2]: return "Council", cards
-    if n == 5 and len(suits) == 4: return "Full Witness", cards
-    if flush: return "One Voice", cards
-    if straight: return "Ladder", cards
-    if groups[0] == 3: return "Presidency", of(3)
-    if groups[:2] == [2, 2]: return "Covenant", of(2)
-    if groups[0] == 2: return "Two Witnesses", of(2)
+    if straight and flush: return "Straight Flush", cards
+    if groups[0] >= 4: return "Four of a Kind", of(4)
+    if groups[:2] == [3, 2]: return "Full House", cards
+    if n == 5 and len(suits) == 4: return "Four Suits", cards
+    if flush: return "Flush", cards
+    if straight: return "Straight", cards
+    if groups[0] == 3: return "Three of a Kind", of(3)
+    if groups[:2] == [2, 2]: return "Two Pair", of(2)
+    if groups[0] == 2: return "Pair", of(2)
     best = max(cards, key=lambda c: witness(c[1]))
-    return "A Word", [best]
+    return "High Card", [best]
 
 def evaluate(cards, s):
     name, scoring = classify(cards)
@@ -59,7 +59,8 @@ def bar(v, d=0, width=10):
 
 def render_preview(cards, s):
     name, scoring, w, g, total, sd, dial = evaluate(cards, s)
-    out = [f"{name}: {w} Witness × {g} Glory = {total}  (scoring: {' '.join(label(c) for c in scoring)})"]
+    suits_used = " + ".join(su for su in T["suits"] if any(c[0]==su for c in scoring))
+    out = [f"{name} ({suits_used}): {w} Witness × {g} Glory = {total}  (scoring: {' '.join(label(c) for c in scoring)})"]
     for su in T["suits"]:
         out.append(f"  {su:8} {bar(s['levels'][su], sd[su])} {s['levels'][su]}→{s['levels'][su]+sd[su]}")
     out.append("  Dials (hold): " + ", ".join(f"{k} {v:+d}" for k, v in dial.items() if v) )

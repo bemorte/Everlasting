@@ -7,16 +7,16 @@
   "suits": ["Command", "Punish", "Inspire", "Reveal"],
   "rank_witness": {"1": 11, "11": 10, "12": 10, "13": 10},
   "hand_types": {
-    "A Word":          [5, 1],
-    "Two Witnesses":   [10, 2],
-    "Covenant":        [20, 2],
-    "Presidency":      [30, 3],
-    "Ladder":          [30, 4],
-    "One Voice":       [35, 4],
-    "Full Witness":    [45, 5],
-    "Council":         [40, 4],
-    "Four Corners":    [60, 7],
-    "Fulness":         [100, 8]
+    "High Card":          [5, 1],
+    "Pair":   [10, 2],
+    "Two Pair":        [20, 2],
+    "Three of a Kind":      [30, 3],
+    "Straight":          [30, 4],
+    "Flush":       [35, 4],
+    "Four Suits":    [45, 5],
+    "Full House":         [40, 4],
+    "Four of a Kind":    [60, 7],
+    "Straight Flush":         [100, 8]
   },
   "targets": [
     [300, 450, 600], [800, 1200, 1600], [2000, 3000, 4000], [5000, 7500, 10000],

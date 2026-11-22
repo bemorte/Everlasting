@@ -11,7 +11,7 @@
 ## Cards and hands
 - 52 cards: Command (C), Punish (P), Inspire (I), Reveal (R), ranks A–K. A = 11 Witness, J/Q/K = 10, others face value.
 - Score = (hand base Witness + scoring cards' Witness) × hand Glory.
-- Hands (Witness × Glory): A Word 5×1 · Two Witnesses 10×2 · Covenant 20×2 · Presidency 30×3 · Ladder 30×4 · One Voice 35×4 · Council 40×4 · Full Witness (all four suits in 5 cards) 45×5 · Four Corners 60×7 · Fulness 100×8.
+- Hands use **poker names** (Witness × Glory): High Card 5×1 · Pair 10×2 · Two Pair 20×2 · Three of a Kind 30×3 · Straight 30×4 · Flush 35×4 · Full House 40×4 · Four Suits (one of each suit in 5 cards) 45×5 · Four of a Kind 60×7 · Straight Flush 100×8. The religious names move to the Keys that level each hand up (set to be workshopped).
 - **Preview before playing:** each scoring card adds 1 to its suit level (bars). Holding shows dial changes per scoring card: Command Agency −2, Progress −1, Collapse −1 · Punish Joy −2, Truth +1, Collapse −2 · Inspire Progress +2, Joy +1, Agency +1 · Reveal Truth +2, Redemption +2, Agency −2.
 
 ## Between Eras (narrated by hand for now)

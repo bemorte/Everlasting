@@ -101,3 +101,4 @@ Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and 
 | 20 | Prototyping | **All three steps, in order**: chat run-through, bot simulator, Watch greybox (2026-11-22) |
 | 21 | Starting numbers | **Copy the source games, then bend**: Balatro's hand size, hands, discards and ante targets; Mini Metro / Mini Motorways spawn pacing and weekly upgrades; Plague Inc point costs as the baseline, adjusted from playtests (2026-11-22) |
 | 22 | Playtesters | **Bemorte plus a few friends**, sharing the browser prototypes (2026-11-22) |
+| 23 | Hand names | **Use poker hand names** (High Card ... Straight Flush, plus Four Suits). Readouts always name the suits used. Religious names move to the Keys, which should form one themed set like Balatro's planets (2026-11-22) |

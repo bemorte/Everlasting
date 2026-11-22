@@ -66,20 +66,24 @@ Each suit has a **Directness** value. Direct acts are powerful but cost belief-i
 - **Score:** `Witness × Glory`. Beat the Era's **target** to clear it.
 - **Every hand also moves the dials**, based on the suits and ranks played and on how the people receive it (doc 05).
 
-### Hand types (Balatro analogs, renamed)
+### Hand types (poker names, changed 2026-11-22)
 
-| Hand | Pattern | Base Witness × Glory | Flavor |
-|---|---|---|---|
-| A Word | High card | 5 × 1 | A single act |
-| Two Witnesses | Pair | 10 × 2 | "In the mouth of two witnesses" |
-| Covenant | Two pair | 20 × 2 | Promise for promise |
-| Presidency | Three of a kind | 30 × 3 | Three who lead as one |
-| Ladder | Straight | 30 × 4 | Ascending steps |
-| One Voice | Flush (5 same suit) | 35 × 4 | Single-minded act |
-| Council | Full house | 40 × 4 | Three decide, two consent |
-| Four Corners | Four of a kind | 60 × 7 | To the ends of the earth |
-| **Full Witness** *(new)* | All four suits + any | 45 × 5 | Balance of all your ways |
-| Fulness | Straight flush | 100 × 8 | Perfect act |
+Hands use **standard poker names** so players never have to translate. The religious flavour moves to the **Keys** that level each hand up; the Key set is being workshopped (doc 07) so the Keys read as one family, like Balatro's planets.
+
+| Hand | Base Witness × Glory |
+|---|---|
+| High Card | 5 × 1 |
+| Pair | 10 × 2 |
+| Two Pair | 20 × 2 |
+| Three of a Kind | 30 × 3 |
+| Straight | 30 × 4 |
+| Flush | 35 × 4 |
+| Full House | 40 × 4 |
+| **Four Suits** *(new: one card of each suit in 5)* | 45 × 5 |
+| Four of a Kind | 60 × 7 |
+| Straight Flush | 100 × 8 |
+
+Every hand readout names the hand **and the suits it scores with**, for example "Pair (Command + Reveal)".
 
 **Keys** (consumables) level up a hand type for the rest of the run.
 
