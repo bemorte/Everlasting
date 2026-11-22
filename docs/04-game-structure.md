@@ -85,7 +85,25 @@ Hands use **standard poker names** so players never have to translate. The relig
 
 Every hand readout names the hand **and the suits it scores with**, for example "Pair (Command + Reveal)".
 
-**Keys** (consumables) level up a hand type for the rest of the run.
+**Keys** (consumables, like Balatro's planets) level up a hand type for the rest of the run. Settled 2026-11-22: the Keys are one set of **god frameworks**, matched to each hand by its count of gods. Each Key shows a real phrase for the theology as its title, with the theology and a one-line explanation beneath. Names are neutral; whether a framework is true or corrupt depends on how the people practise it (doc 05 tenets).
+
+| Hand | Key | Theology: what it means |
+|---|---|---|
+| High Card | The One God | Monotheism: a single god, creator and ruler of all |
+| Pair | Light and Darkness | Dualism: two equal powers, good and evil, locked in struggle |
+| Two Pair | Sky Father, Earth Mother | Divine couples: gods come in male and female pairs who create together |
+| Three of a Kind | Three in One | Trinity / triad: one divinity known as three persons |
+| Straight | King of the Gods | Ranked pantheon: gods in order of rank under one ruler |
+| Flush | All the Gods | Polytheism: many gods, each over a part of life, honoured together |
+| Full House | The Assembly of the Gods | Divine council: a high god presides over a council of lesser gods |
+| Four of a Kind | The Four Elements | Elemental religion: earth, water, fire and air as sacred powers |
+| Four Suits | Many Names, One God | Syncretism: different faiths are seen as names for the same divine |
+| Straight Flush | Becoming Divine | Theosis: humans can grow, step by step, to become like god |
+| Five of a Kind *(secret)* | God Is All | Pantheism: the universe itself is divine |
+| Flush House *(secret)* | The Most High | Henotheism: many gods exist, but one is worshipped above all |
+| Flush Five *(secret)* | Countless Gods | Plurality of gods: gods without number across endless worlds |
+
+Secret hands unlock (and their Keys enter the shop) once played, as in Balatro.
 
 ### Era targets
 

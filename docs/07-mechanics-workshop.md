@@ -56,7 +56,6 @@ Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and 
 | # | Area | Question |
 |---|---|---|
 | S1 | Shop | The shop is confusing: players cannot tell what to buy or why. Each item needs a plain "why this fits your run" line (for example "Fits your Command Flush: +100 Witness on it") and a preview of its effect on the suit bars. Found in run-through 1 |
-| K1 | Keys | Name the Keys as a set of god frameworks (High Card = one true god, Flush = pantheon, Straight = Olympus...). Being narrowed with cards |
 | N1 | Naming | Which gets renamed: the card phase or the first Era? |
 | R1 | Witness | How often does the pick of seven happen? |
 | R2 | Witness | What does the chosen person do in the next card phase? |
@@ -108,3 +107,4 @@ Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and 
 | 25 | K1b Key matching | **By count of gods**: the hand's shape tells the framework (High Card one god, Pair two, Three of a Kind a trinity, Flush a family pantheon...) (2026-11-22) |
 | 26 | K1c Secret hands | **Yes, all three**: Five of a Kind, Flush House, Flush Five, each with its own framework Key, unlocked once played (2026-11-22) |
 | 27 | K1d Truth in Keys | **Truth depends on the people**: names stay neutral; how the people practise a framework in the Watch decides if it is true or corrupt (2026-11-22) |
+| 28 | Key set | **Approved 13 god-framework Keys** with real theology phrases and one-line explanations; full table in doc 04 (2026-11-22) |
