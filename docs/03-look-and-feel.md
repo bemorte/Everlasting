@@ -1,5 +1,7 @@
 # 03 — Look and feel, and the plan to get there
 
+> Watch models (buildings, trees, animals, land) follow [08 · Watch art principles](08-watch-art-principles.md), set 2026-11-22. Where the two differ, doc 08 wins.
+
 > Status: Draft v0.1 · Source: answers 3a–3c
 
 ## The two visual worlds

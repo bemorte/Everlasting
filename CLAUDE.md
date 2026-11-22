@@ -12,6 +12,7 @@ Guidance for Claude Code when working in this repository.
 - `docs/04-game-structure.md`: dials, hand types, targets, shop, Watch, grading, Veils, unlocks
 - `docs/05-non-deterministic-people-ai.md`: the Spark model, the Records, the Voice, viability
 - `docs/06-content-and-brand-guide.md`: name, voice and tone, lore canon, card and visual identity rules. Follow it for any player-facing text or art
+- `docs/08-watch-art-principles.md`: the eight rules for every Watch building, tree, animal and land tile. Follow it for any Watch art
 
 ## Non-negotiable design rules
 
