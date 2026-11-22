@@ -36,6 +36,25 @@ Rules for every Watch building set, tree, animal and land tile. Set by Bemorte o
 6. Do the animals and trees have true proportions?
 7. If it is a temple, do the materials (not extra parts) make it the richest thing on the tile?
 
+## How the principles are applied (full pass, 2026-11-22)
+
+The full pass ran over all 19 building sets and the land with the rich render mode (`HD=2`). No model changed its layout or part count. What changed:
+
+- **Materials, not colours.** Every part is given a material from its colour and shape: coursed stone, brick, adobe, plaster, concrete, plank, timber, bark, shingle, clay tile, thatch, straw, cloth, hide, fur, shag, wool, leaf, needle, grass, soil, sand, paving, marble, weathered copper, glass, water, snow. Each material is a tileable procedural texture with its own relief, projected at one believable scale for the whole world, so a brick is the same size on every building.
+- **Shared base palette.** Greens, woods, soils, sands and greys are pulled toward one shared hue each before texturing. Saturated colours (cloth, paint, tile glazes, gold, neon) are left alone and act as the era accents.
+- **Light.** One sun with soft shadows, a sky fill, and ambient occlusion on every scene. Smoke, flame, glass and light beams are excluded from occlusion.
+- **Edges.** Boxes carry a small bevel. Trees, animals, rocks and terrain are smooth forms.
+- **Nature.** Broadleaf trees are a bark trunk with five smooth leaf masses; conifers and cypresses are turned forms; palms have ribbon fronds; animals keep true anatomy with fur, shag or wool as texture; mammoth trunks and tusks are smooth tapered tubes.
+- **Era rules.** Modern eras (The Fulness, The Thousand Years, The Hollow Years) read grey masonry as concrete and green roofs as weathered copper; The Hollow Years reads timber-coloured boxes as painted metal.
+
 ## Pipeline notes
 
-The rich render mode is `HD=2` in `brand/round6/renderk.js` (see `RICH()` in `models.js`). Sample 4 (`review/33-*`) is the starting point. For the full pass it needs to move from painted textures to real-material textures (principle 3), and from per-era colours to a shared base palette (principle 6).
+Sources live in project files under `everlasting/brand/round6/`:
+
+- `mats.js`: material textures, the shared palette (`harmonize`) and the colour-and-shape classifier (`classify`).
+- `models.js`: all building sets. `RICH()` is true when `HD=2`.
+- `world.js`: the land, including the Far Isles board.
+- `post.js`: the final render with ambient occlusion.
+- `runall.sh era...`: renders both building rows, the valley and the street at double size, then `final_sheet.py` composes the sheet using `labels.json`.
+
+Final sheets are in `everlasting/review/final-pass/`, one per set, plus the Far Isles board.

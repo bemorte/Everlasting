@@ -215,7 +215,7 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 
 **The Long Night: The Northern Halls (planned, working name).** A Viking society, to be built later: longships, a great timber hall, stave temple, turf-roofed longhouses, carved rune stones, a harbour and a law-rock assembly.
 
-**Final detail pass (in review, 2026-11-22).** A high-detail render mode that changes no structure or layout: softened edges, truly round forms, smooth lumpy trees and rocks with leaf clusters, and drawn surface detail chosen by material (roof shingles, brick bond, stone courses, plank lines). The person chose to push past smoothing alone to drawn detail. It applies to every building set and the land once the sample is approved.
+**Final detail pass (run 2026-11-22, awaiting review).** Every building set and the land were re-rendered under the rules in `docs/08-watch-art-principles.md`: the same layouts and part counts, clean bevelled forms, real-material textures at one world scale, a shared base palette with era accents, soft shadows and ambient occlusion. The earlier idea of drawn surface detail and many-lump trees was rejected as too intricate. Final sheets are in project files under `everlasting/review/final-pass/`.
 
 **Endless boards (on hold, by request 2026-11-22).** The four endless levels each need their own Watch board and building set: The Spirit World, Telestial, Terrestrial and Celestial.
 
