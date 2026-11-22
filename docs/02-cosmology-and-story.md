@@ -57,6 +57,7 @@ A run still plays **eight Dispensations**, but they are now **slots**. The first
 | 6 **The Long Night** | **The Other Fold** (Lehi, scattered branches) | Truth is held by a few; the people are scattered |
 | | **The Great Apostasy** (the long dark age) | Truth is low |
 | | **The Kept Lamp** (Islamic golden age) | Progress and Insight lead while Truth is middling |
+| | **The Northern Halls** (working name; a Viking society of longships, timber halls and carved stones; planned 2026-11-22, to be built later) | Progress and Agency lead while Harmony is low |
 | 7 **The Awakening** | **The Rebirth** (Renaissance) | Progress and Joy lead |
 | | **The Gathering** (American frontier, 1830s and 1840s) | Truth and Agency lead |
 | 8 **The Fulness** | **The Fulness** (Restoration, latter days) | default |
@@ -68,7 +69,7 @@ Rules for the new options:
 - Every option gets its own card style, eight Watch buildings, a signature Trial and world conditions, the same as the original eight.
 - Other cultures are shown through architecture, materials and daily life only. No real scripture, prophets, religious names or symbols. The Gathering evokes its time and place without naming anyone.
 - The new in-game names are working names until reviewed.
-- **Each Dispensation refers to God very differently.** The people of every option have their own name and way of speaking of the player (written per option in doc 06, "What each Dispensation calls you"): cards, prayers, the Testament and the Voice all use that Dispensation's form of address.
+- **Each Dispensation refers to God very differently.** The people of every option have their own name and way of speaking of the player (the people choose the names themselves; doc 06, "How each Dispensation worships", holds only the clue cards): cards, prayers, the Testament and the Voice all use that Dispensation's form of address.
 - The Thousand Years and The Hollow Years are alternatives to The Fulness, not extra levels. The endless levels are unchanged, and each of the four (The Spirit World, Telestial, Terrestrial, Celestial) needs its own Watch board.
 - This replaces the old rule that only Dispensation 7 was drawn from a pool.
 

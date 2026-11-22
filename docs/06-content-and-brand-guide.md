@@ -82,38 +82,40 @@ This guide is the single reference for what the game says, shows and sounds like
 
 Optional mid-game Godhood Powers with lore weight (never required; the people talk about whichever you use): **The Shadow** (people-given name each run), **The Lifted Hand** (rescue and atonement), **The Deluge**.
 
-## What each Dispensation calls you (added 2026-11-22, in review)
+## How each Dispensation worships (added 2026-11-22, in review)
 
-The player is never named by the game itself. Each Dispensation's people have their own name for you and their own way of speaking to you, and the change of name is how the player feels the distance grow and close across a run. These names are invented. None is a real name of God from any faith, and none is a line of real scripture.
+**We do not set the names. The people do.** In every Dispensation the people's model chooses what to call the player and how to speak to them, and it can differ from run to run. What the game supplies is a clue card per option: the kind of god or gods these people would believe in and the manner of their worship. The Voice (LLM or template fallback) and the Spark model both receive the clue card. The names in the last column are only examples of what the people might arrive at, kept for testing and for the template fallback's word lists. They are invented, and none is a real name of God or a line of real scripture.
 
 Rules:
 
-- The name shows up in prayer bubbles, in the Testament the people write, in witness bios and in Trial text. Menus and tutorials just say "you".
-- Closeness follows the story: plain and near at the start, formal or lost in the middle, plain and near again at the end.
-- The Voice (LLM or template fallback) gets the name, the form of address and the sample line below as its style card for that Dispensation.
-- If the people drift far from the true tenets, they may start using a wrong name. That is a signal to the player, not an error.
+- The clue card never contains a name. It describes the kind of worship: how many gods, how near or far, what they are thought to care about, how they are approached.
+- The chosen name shows up in prayer bubbles, in the Testament the people write, in witness bios and in Trial text. Menus and tutorials just say "you".
+- The name can change inside a Dispensation when the people change. A wrong or splintered name is a signal to the player about the Truth dial, not an error.
+- Closeness follows the story: plain and near at the start, formal, crowded or lost in the middle, plain and near again at the end. The clues lean that way; the people may still surprise us.
+- The template fallback picks from a small list of name parts per option, with the seeded RNG, so it also varies by run.
 
-| Slot | Option | What they call you | How they speak to you | Sample prayer |
+| Slot | Option | Clue: the kind of god they worship | Clue: how they worship | Example of a name they might choose |
 |---|---|---|---|---|
-| 1 Before the Dawn | The Waking | **The Warmth** | No sentences yet. One or two words, said to the fire and the sky. | "Warmth. Stay." |
-| 2 Dawn | Dawn | **Father of Mornings** | Face to face, like a child to a parent. No ceremony. | "Father, the fruit came in. Come and see." |
-| 3 The Wandering | The Walking City | **The Walker Beside** | As a companion on the road, spoken to while moving. | "Walk with us one more day." |
-| | The Waters | **Keeper of the Deep** | With fear and respect, from the deck, eyes down. | "Keeper, hold the deep shut." |
-| | The Covenant | **The One Who Swore** | As a partner to a promise. They remind you of your word. | "You swore. We are still here." |
-| | The Far Isles | **The Star-Setter** | Sung, not spoken, in chants that name the stars in order. | "Star-Setter, set one over the next island." |
-| 4 The Law | The Law | **The Unspoken** | The name is never said aloud. Formal, exact, through the rites. | "To the One we do not name: we kept the measure." |
-| | The Lotus Kingdoms | **The Thousand-Named** | Every household has its own name for you and all are thought true. | "By whichever name you answer to, hear this house." |
-| | The Vermilion Gate | **The Lord Beyond the Gate** | Indirect and polite. They clap twice, bow and ask nothing outright. | "If it should please the Lord Beyond the Gate, the rice is planted." |
-| 5 The Meridian | The Meridian | **Father** | The plain word comes back. Short, private and trusting. | "Father, I am afraid, and I am going anyway." |
-| | The Marble Cities | **The First Mover** | Argued about more than prayed to. Questions, not requests. | "If you moved the first thing, what moved you to?" |
-| 6 The Long Night | The Other Fold | **The One Who Will Come** | Spoken forward in time, as a promise they wait on. | "Come soon. We have kept the place ready." |
-| | The Great Apostasy | **The Throne** | Distant, through go-betweens, in a language most cannot read. | "Let someone holier carry this up to the Throne." |
-| | The Kept Lamp | **The One of Many Praises** | Recited at set hours, with praise-names counted on the fingers. | "The One, the Patient, the Near: keep the lamp lit." |
-| 7 The Awakening | The Rebirth | **The Architect** | Admired through the work. They study what you made to know you. | "Architect, show me how the dome stands." |
-| | The Gathering | **Our Father in the heavens** | Aloud, kneeling, in their own words, expecting an answer. | "We have a question, and we mean to do what you say." |
-| 8 The Fulness | The Fulness | **Father** | Ordinary and daily, at kitchen tables. | "Father, thank you for today. Help us with tomorrow." |
-| | The Thousand Years | **The Gardener** | As a neighbour who is around. Thanks more than asking. | "Gardener, the wetland took. Come and walk it." |
-| | The Hollow Years | **The Old Light** | Whispered. The screens have another name for what to trust. | "Old Light, if you are still there, there are three of us." |
+| 1 Before the Dawn | The Waking | Not yet a person. A presence felt in fire, sky and thunder. | One or two words, said to the fire. No sentences yet. | The Warmth |
+| 2 Dawn | Dawn | One parent who walks with them and is seen. | Face to face, like a child. No ceremony. | Father of Mornings |
+| 3 The Wandering | The Walking City | One companion god who travels with the camp. | Spoken to on the road, while moving. | The Walker Beside |
+| | The Waters | One god of judgment and rescue who commands the sea. | With fear and respect, eyes down. | Keeper of the Deep |
+| | The Covenant | One god bound to them by a sworn promise. | As a partner. They remind the god of the oath. | The One Who Swore |
+| | The Far Isles | A maker of stars and sea, with ancestors as guides. | Sung in chants that name the stars in order. | The Star-Setter |
+| 4 The Law | The Law | One holy lawgiver, too holy to name. | Formal and exact, through rites and priests. | The Unspoken |
+| | The Lotus Kingdoms | Many gods understood as faces of one. | Every household has its own name and image; all are thought true. | The Thousand-Named |
+| | The Vermilion Gate | Spirits in every place, and a lord of heaven above them. | Indirect and polite: clap, bow, ask nothing outright. | The Lord Beyond the Gate |
+| 5 The Meridian | The Meridian | One near and loving parent. | Short, private and trusting. | Father |
+| | The Marble Cities | A family of quarrelling gods, and beside them the thinkers' single unknown cause. | Festivals and offerings for the many; questions for the one. | The First Mover |
+| 6 The Long Night | The Other Fold | One god who has promised to come to them in person. | Spoken forward in time, as waiting. | The One Who Will Come |
+| | The Great Apostasy | A distant king and judge, reached through holy go-betweens. | In a language most cannot read, by way of others. | The Throne |
+| | The Kept Lamp | Strictly one, without image or partner. | Recited at set hours, with praise-names counted on the fingers. | The One of Many Praises |
+| | The Northern Halls (planned) | A hall of warrior gods, with fate above even them. | Oaths, toasts and carved signs; bargains more than prayers. | The Hall-Father |
+| 7 The Awakening | The Rebirth | A maker known through his works, like an artist or builder. | Admired by studying what was made. | The Architect |
+| | The Gathering | One living father who answers when asked. | Aloud, kneeling, in their own words, expecting an answer. | Our Father in the heavens |
+| 8 The Fulness | The Fulness | The same near parent Dawn knew. | Ordinary and daily, at kitchen tables. | Father |
+| | The Thousand Years | A present caretaker who is around, more neighbour than king. | Thanks more than asking. | The Gardener |
+| | The Hollow Years | Officially none. The screens teach trust in the system; the old faith is whispered. | In secret, in twos and threes. | The Old Light |
 
 ## Content scope for launch
 
