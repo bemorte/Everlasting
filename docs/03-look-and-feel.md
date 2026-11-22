@@ -187,18 +187,27 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: orchard, crop rows, sunflowers, bee skeps on a bench and a roofed well.
 - Works: the wagon company. Covered wagons, oxen, a handcart and a campfire. On the land the docks hold paddle steamers.
 
-**The Fulness: The Thousand Years** (in review, round 2: kept bright and happy, rebuilt on grounded, science-based ideas instead of floating rings and symbols). The far future option for the last slot: a world that solved its problems with real tools. Materials: pearl white, clear blue glass, deep blue solar glass, a little gold, running water, and green growing on every roof and ledge. Nothing floats and nothing glows without a reason.
+**The Fulness: The Thousand Years** (in review, round 3: started over as grounded futurism after two rejected rounds; no white shining city, nothing symbolic or floating). The bright far future is a place you could actually build: dense, green, walkable and still under construction. Materials: mass timber, brick, sandstone, weathered copper roofs, glass, dark blue solar, planted roofs and balconies. Trams and bicycles instead of cars.
 
-- Temple: the temple of light. A round terraced hall with a tall central spire and twelve smaller spires in a ring, with four streams running out to the edges of the tile.
-- Home: the garden home. Rounded white homes with glass domes and green roofs, roof solar, a small wind turbine, a rain tank, a greenhouse, a pond and a kitchen patch.
-- School: observatory and launch pad. A slit-dome telescope, a glass research tower, a radio dish and a small rocket on its gantry.
-- Market: the market under solar trees. Hexagonal solar canopies shading produce tables, a kiosk, crates and a delivery drone.
-- Granary: the vertical farm. Stacked glass floors with a planted ring on every level, seed domes, round pivot fields and a crop drone.
-- Court: the glass forum. Tiered seats under an open lattice dome with glass panes.
-- Garden: the rewilded park. A great tree, a stream and reed pond, deer, rabbits, beehives and a weather station.
-- Works: the green tower with a maglev train on a raised line. On the land, fusion plants (white ring buildings) replace factories and wind turbines replace power lines.
+- Temple: sandstone hall with timber fins between tall windows, a copper roof, and one tower with a timber-and-glass lantern under a copper spire. Reflecting pool and lawn.
+- Home: timber terraces. Stepped timber apartments with planted balconies, roof solar, a brick townhouse, shared kitchen garden, greenhouse, heat pump and bike shelter.
+- School: the research works. A brick lab with a sawtooth solar roof, a copper-domed observatory, a greenhouse lab, a radio dish and a robot arm in the yard.
+- Market: the timber market hall. An arched timber frame with glass and solar panes over produce stalls, with a tram at the kerb.
+- Granary: the vertical farm. Glass growing floors under pink grow lights, steel grain bins, a self-driving harvester, a crop drone and an irrigation channel.
+- Court: the green-roof hall. A timber civic hall with a planted roof, brick wind towers, a colonnade and broad steps to a square.
+- Garden: the wetland park. Ponds, reeds, a boardwalk, a great tree, deer, beehives and a weather station.
+- Works: the timber tower, still rising, with a crane on its roof and a tram below. On the land, fusion plants (concrete and copper, with battery sheds and hydrogen tanks) replace factories and wind turbines replace power lines.
 
-**The Fulness: The Hollow Years** (planned, working name). The dark far future, the mirror of The Thousand Years: the same science, used on the people instead of for them.
+**The Fulness: The Hollow Years** (in review, working name). The dark far future, the mirror of The Thousand Years: the same science, used on the people instead of for them. Materials: black glass, concrete, rust, smog, screens and neon in cyan, magenta and amber.
+
+- Temple: the fenced temple. The old stone temple, dark and scaffolded behind a fence, an advertising screen bolted beside it, one window and the door still lit.
+- Home: the stack. Container homes piled five high with walkways, stairs, washing lines and neon.
+- School: the screen hall. A windowless block with one giant screen and rows of desks facing it, under cameras.
+- Market: the ration wall. A wall of vending hatches, queue rails, a pay kiosk and delivery drones.
+- Granary: the vat farm. Black tanks of green culture, rust pipes and trays under lamps.
+- Court: the watchtower. A walled tower with a lit ring of windows, cameras and a searchlight.
+- Garden: the last tree. One living tree under a glass dome behind a fence, with dead stumps outside.
+- Works: the black tower, lit windows and neon. On the land, smokestack plants and camera pylons.
 
 **Endless boards (planned).** The four endless levels each need their own Watch board and building set: The Spirit World, Telestial, Terrestrial and Celestial.
 

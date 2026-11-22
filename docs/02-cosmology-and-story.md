@@ -60,7 +60,7 @@ A run still plays **eight Dispensations**, but they are now **slots**. The first
 | 7 **The Awakening** | **The Rebirth** (Renaissance) | Progress and Joy lead |
 | | **The Gathering** (American frontier, 1830s and 1840s) | Truth and Agency lead |
 | 8 **The Fulness** | **The Fulness** (Restoration, latter days) | default |
-| | **The Thousand Years** (the bright far future: a grounded, science-based world of sun, wind, fusion, vertical farms and rewilded land) | every dial is high and Collapse is low |
+| | **The Thousand Years** (the bright far future: grounded futurism, a buildable world of timber, brick, trams, sun, wind and fusion) | every dial is high and Collapse is low |
 | | **The Hollow Years** (working name; the dark far future: the same science turned against the people, added 2026-11-22) | Progress is high while Joy and Agency are low, or Collapse is high |
 
 Rules for the new options:
