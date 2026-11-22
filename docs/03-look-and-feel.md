@@ -97,14 +97,14 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Works: the glass tower, with brick factories (sawtooth roofs, stacks) and lattice pylons on the land.
 
 
-**Before the Dawn: The Waking** (in review). The very first people, at the moment they become people: fire, paint, burial and the first words. Ice-age country with mammoths. Nothing is built yet; everything is found, stacked or lashed. Materials: raw rock, mammoth bone and tusk, hide and fur, ochre and charcoal paint, fire.
+**Before the Dawn: The Waking** (in review, round 2). The very first people, at the moment they become people: fire, paint and the first words, in ice-age country with mammoths. **Only the temple is a cave.** Every other building type barely exists yet: each is a proto version so slight that the player only recognises it once later Dispensations show what it grows into. Materials: raw rock, bone and tusk, hide, branches, ochre, fire.
 
-- Temple: the painted cave. A crag with a dark mouth lit by a fire inside, ochre hand prints and painted beasts, a tusk arch, offering stones.
-- Home: rock shelter with a hide windbreak and hearth, beside a mammoth-bone hut.
-- School: the knapping floor. An anvil boulder, flint chips, a painted teaching rock, a spear rack.
-- Market: the meeting stone. A tall marked stone where bands trade shells, flint, hides and tusks.
-- Granary: drying racks, a stone-ringed cache pit, a mammoth ribcage.
-- Court: the elders' fire. A great hearth, log and stone seats, a mammoth-skull seat of honour.
+- Temple: the painted cave. A crag with a dark mouth lit by a fire inside, ochre hand prints, a tusk arch, offering stones.
+- Home: a branch windbreak, a hide to sleep on, a small fire.
+- School: a flat rock where flint is struck, with chips around it and one marked stone.
+- Market: a marked stone and two hides laid out with shells and flint.
+- Granary: one drying rack and a stone cairn over a cache.
+- Court: a fire, five stones to sit on, one staff.
 - Garden: the watering hole. Pool, reeds, berry bushes, a young mammoth drinking.
 - Works: the mammoth herd.
 
