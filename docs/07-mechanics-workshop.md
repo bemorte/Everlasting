@@ -104,3 +104,7 @@ Why: Plague Inc's algorithms were built in Excel before the engine; Balatro and 
 | 21 | Starting numbers | **Copy the source games, then bend**: Balatro's hand size, hands, discards and ante targets; Mini Metro / Mini Motorways spawn pacing and weekly upgrades; Plague Inc point costs as the baseline, adjusted from playtests (2026-11-22) |
 | 22 | Playtesters | **Bemorte plus a few friends**, sharing the browser prototypes (2026-11-22) |
 | 23 | Hand names | **Use poker hand names** (High Card ... Straight Flush, plus Four Suits). Readouts always name the suits used. Religious names move to the Keys, which should form one themed set like Balatro's planets (2026-11-22) |
+| 24 | K1a Key naming | **Evocative name, plain subtitle** (for example The Twin Thrones, subtitled Dualism) (2026-11-22) |
+| 25 | K1b Key matching | **By count of gods**: the hand's shape tells the framework (High Card one god, Pair two, Three of a Kind a trinity, Flush a family pantheon...) (2026-11-22) |
+| 26 | K1c Secret hands | **Yes, all three**: Five of a Kind, Flush House, Flush Five, each with its own framework Key, unlocked once played (2026-11-22) |
+| 27 | K1d Truth in Keys | **Truth depends on the people**: names stay neutral; how the people practise a framework in the Watch decides if it is true or corrupt (2026-11-22) |
