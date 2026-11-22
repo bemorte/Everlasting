@@ -51,7 +51,7 @@ A run still plays **eight Dispensations**, but they are now **slots**. The first
 | | **The Far Isles** (Pacific voyagers, islands of the sea) | Agency and Progress lead; the people spread out |
 | 4 **The Law** | **The Law** (Moses) | Truth leads; Agency is under strain |
 | | **The Lotus Kingdoms** (ancient India) | Joy and Redemption lead |
-| | **The Jade Court** (ancient East Asia) | Progress and Harmony lead; Agency is low |
+| | **The Vermilion Gate** (East Asia: samurai castle town and shrine style combined) | Progress and Harmony lead; Agency is low |
 | 5 **The Meridian** | **The Meridian** (Christ; Roman world) | Redemption leads |
 | | **The Marble Cities** (ancient Greece) | Agency and Insight lead |
 | 6 **The Long Night** | **The Other Fold** (Lehi, scattered branches) | Truth is held by a few; the people are scattered |

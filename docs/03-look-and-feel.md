@@ -132,6 +132,17 @@ Temple: the great minster. Twin spired towers, a steep slate nave with buttresse
 - Garden: the lotus pool. A square pool with a domed pavilion at the centre, mango trees, flower borders, a peacock.
 - Works: the stepwell. Stepped terraces going down to water, corner pavilions, a colonnade.
 
+**The Law: The Vermilion Gate** (in review; was "The Jade Court"). The East Asian option, set by the person as **one blend of samurai castle town and shrine style**. Island warriors bound by an unwritten code, and shrine keepers who tend the places where the unseen touches the land. Materials: white plaster, dark timber frames, grey tile with upturned eaves, vermilion gates and fences, stone lanterns, pine and cherry blossom.
+
+- Temple: the great shrine. A double vermilion gate, lantern-lined path, offering hall, a raised sanctuary with a bark roof, crossed gold finials and ridge logs, a rope with paper streamers, a water pavilion, a great roped tree.
+- Home: the warrior house. Raised timber house with a veranda inside a tiled plaster wall and gate, raked gravel court, armour stand.
+- School: the training hall. Long tiled hall, archery targets, practice posts, weapon rack, tall banners.
+- Market: the merchant row. Three shopfronts with door curtains and lanterns, goods tables, a handcart, rice bales.
+- Granary: the plaster storehouses. Thick white walls over dark tile-patterned bases, stacked rice bales, a paddy.
+- Court: the castle keep. A battered stone base with three white tiers, sweeping tiled roofs and gold roof ornaments.
+- Garden: the pond garden. Pond, arched vermilion bridge, cherry trees, pine, lantern, raked gravel, tea hut.
+- Works: the swordsmith. Forge hall with chimney, anvil, quench tub, sword rack, armour stand.
+
 ### The Revelation: illuminated eras (3b: A)
 
 The same **structures and surfaces** every Dispensation: card frame, table, shop, score panel, dial gauges. Each Dispensation **restyles** them with its own palette, ornament, typography and material.
