@@ -74,3 +74,4 @@ This is the least settled part of the game, so it gets the most questions (W1–
 | 3 | Card clarity | **Effects on the Command, Punish, Inspire and Reveal levels are always visible before scoring** (2026-11-22) |
 | 4 | W1 Main Watch control | **Drag paths between settlements**, Mini Metro style; redraw lines as needs shift (2026-11-22) |
 | 5 | W4 Farming | **Both**: deliveries along paths pay a steady trickle; rarer prayer bubbles give bursts and hint at local needs (2026-11-22) |
+| 6 | W5 Spending | **A society tree, like Plague Inc**: points grow traits (writing, law, astronomy, charity...) that push society the player's way. Buying buildings with points is out; how buildings appear is still open (2026-11-22) |
