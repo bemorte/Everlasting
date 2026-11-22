@@ -2,15 +2,17 @@
 
 > Status: Draft v0.1 · Source: answers 4a–4c, plus 1c and 2c. All numbers are starting points for tuning.
 
+> **Workshop in progress (2026-11-22):** see [07-mechanics-workshop](07-mechanics-workshop.md) for the reveal mini-game, card-phase clarity and the Watch redesign. Where they differ, doc 07 is newer.
+
 ## A run at a glance (4a: A, with endless)
 
 ```
 The Council Before (pick starting Covenant deck + Veil difficulty)
 │
 ├─ Dispensation slots 1 … 8 (1 and 2 fixed, 3 to 8 chosen by the people)
-│    ├─ Era: Morning   → Revelation (cards) → Shop → Watch (sim)
-│    ├─ Era: Noon      → Revelation (cards) → Shop → Watch (sim)
-│    └─ Era: Trial     → Revelation with boss modifier → Shop → Watch
+│    ├─ Era: The Revelation   → cards → Shop → Watch (sim)
+│    ├─ Era: The Kingdom      → cards → Shop → Watch (sim)
+│    └─ Era: The Faith Crisis → cards with a Trial (boss modifier) → Shop → Watch
 │
 ├─ Final grading → Telestial / Terrestrial / Celestial world
 │
@@ -24,8 +26,8 @@ The Council Before (pick starting Covenant deck + Veil difficulty)
 
 The eight Dispensations of a run are **slots** (doc 02). Slots 1 and 2 are fixed (Before the Dawn, then Dawn). Slots 3 to 8 each hold two to four options.
 
-- **The people decide.** When a slot's Trial ends, the rules engine scores each option of the next slot with a weighted sum of the five dials, Collapse and Watch behaviour counters (how far the people spread, how many temples stand, how long the player lingered). The top score becomes the next Dispensation. Ties are broken by the seeded RNG, so a run stays reproducible from its seed.
-- The player is never shown a menu. A short omen before the Trial hints at where the people are leaning, so a player can still play toward a path.
+- **The people decide.** When a slot's Faith Crisis ends, the rules engine scores each option of the next slot with a weighted sum of the five dials, Collapse and Watch behaviour counters (how far the people spread, how many temples stand, how long the player lingered). The top score becomes the next Dispensation. Ties are broken by the seeded RNG, so a run stays reproducible from its seed.
+- The player is never shown a menu. A short omen before the Faith Crisis hints at where the people are leaning, so a player can still play toward a path.
 - The weights live in a data file with the other tuning numbers.
 - Run length, the three Eras per slot and Era targets are unchanged. Targets scale by slot, not by which option is in it.
 - Unlocks can depend on the path (for example, reaching The Thousand Years).
@@ -83,7 +85,7 @@ Each suit has a **Directness** value. Direct acts are powerful but cost belief-i
 
 ### Era targets
 
-| Dispensation | Morning | Noon | Trial |
+| Dispensation | The Revelation | The Kingdom | The Faith Crisis |
 |---|---|---|---|
 | 1 | 300 | 450 | 600 |
 | 2 | 800 | 1,200 | 1,600 |
@@ -98,7 +100,7 @@ Watch length also scales targets: each extra minute in the previous Watch adds a
 
 ### Skipping an Era
 
-Before a **Morning or Noon** Era you may skip it (Trials can never be skipped). Skipping grants a reward tag (for example a free Pack, extra Light, or a free Key) but you **lose that Era's shop and its Watch**: fewer buildings, less culture, and no say for your people in the next style.
+Before **The Revelation or The Kingdom** you may skip it (The Faith Crisis can never be skipped). Skipping grants a reward tag (for example a free Pack, extra Light, or a free Key) but you **lose that Era's shop and its Watch**: fewer buildings, less culture, and no say for your people in the next style.
 
 ### Missing a target: Apostasy
 
@@ -107,9 +109,9 @@ Failing to reach a target **does not end the run.** Instead:
 - One random Godhood Power goes dormant for the next Era.
 - The next Watch opens with a heresy outbreak.
 
-Two Apostasies in the same Dispensation turns the Trial into a harder variant.
+Two Apostasies in the same Dispensation turns the Faith Crisis's Trial into a harder variant.
 
-### Trials (boss Eras)
+### Trials (the boss modifier of The Faith Crisis)
 
 Each Dispensation has a signature Trial (doc 02) plus a pool of generic modifiers, for example:
 - *Babel:* cards of one suit are face down.
@@ -207,7 +209,7 @@ Clearing all four with no Apostasy is the game's highest honor: *Worlds Without 
 
 | # | Question | Decision |
 |---|---|---|
-| 1 | Eras per Dispensation | **Three: Morning, Noon, Trial** |
-| 2 | Skipping | **Morning and Noon can be skipped for a reward**, losing that Era's shop and Watch |
+| 1 | Eras per Dispensation | **Three: The Revelation, The Kingdom, The Faith Crisis** (renamed 2026-11-22 from Morning, Noon, Trial) |
+| 2 | Skipping | **The Revelation and The Kingdom can be skipped for a reward**, losing that Era's shop and Watch |
 | 3 | Resetting the Records | **Neither reset nor freeze.** The Records are permanent |
 | 4 | Watch minimum | **One in-game year** |

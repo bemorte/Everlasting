@@ -75,7 +75,7 @@ Rules for the new options:
 
 Each is a distinct visual style (doc 03) and a different set of world conditions. Names are in-game names; the internal reference sits in parentheses for the team.
 
-| # | Dispensation | (Internal ref) | World state | Signature Trial (boss Era) |
+| # | Dispensation | (Internal ref) | World state | Signature Trial (in The Faith Crisis) |
 |---|---|---|---|---|
 | 1 | **Dawn** | Adam | One small family-clan, a garden edge, stone tools | *The First Rivalry*: a feud between brothers splits the clan |
 | 2 | **The Walking City** | Enoch | Villages, first cities, early writing | *The Lifted City*: one settlement nears One Heart; the rest grow resentful |

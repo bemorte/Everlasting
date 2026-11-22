@@ -17,7 +17,7 @@ The core design rule from 1a/1b: **in the Revelation you make point-in-turn choi
 ## Balatro → the Revelation layer
 
 **What we take**
-- **Run structure.** Antes become *Dispensations* (8 of them), blinds become *Eras* (3 per Dispensation: Morning, Noon, Trial). The Trial Era is the "boss blind" with a rule-bending modifier. See [04-game-structure](04-game-structure.md).
+- **Run structure.** Antes become *Dispensations* (8 of them), blinds become *Eras* (3 per Dispensation: The Revelation, The Kingdom, The Faith Crisis). The Faith Crisis is the "boss blind": it carries a **Trial**, a rule-bending modifier. See [04-game-structure](04-game-structure.md).
 - **Hand building and scoring.** You draw cards from four suits (Command, Punish, Inspire, Reveal), play up to five, and score a combo. Score is `Witness × Glory` (our chips × mult).
 - **Jokers → Godhood Powers.** Permanent, slot-limited powers that bend scoring rules. The shop between Eras sells them.
 - **Planet cards → Keys.** Consumables that level up a specific hand type permanently for the run ("priesthood keys" in spirit, never named that way).

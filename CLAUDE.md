@@ -12,6 +12,7 @@ Guidance for Claude Code when working in this repository.
 - `docs/04-game-structure.md`: dials, hand types, targets, shop, Watch, grading, Veils, unlocks
 - `docs/05-non-deterministic-people-ai.md`: the Spark model, the Records, the Voice, viability
 - `docs/06-content-and-brand-guide.md`: name, voice and tone, lore canon, card and visual identity rules. Follow it for any player-facing text or art
+- `docs/07-mechanics-workshop.md`: Nov 2026 mechanics workshop: reveal mini-game, card-phase clarity, Watch redesign, open questions
 
 ## Non-negotiable design rules
 
@@ -23,7 +24,7 @@ Guidance for Claude Code when working in this repository.
 
 ## Vocabulary
 
-Dispensation (ante; eight slots per run, two fixed and six chosen by the people, see doc 02) · Era: Morning, Noon, Trial (blinds) · Revelation (card phase) · Watch (sim phase) · Witness × Glory (chips × mult) · Godhood Powers (jokers) · Keys (planets) · Tablets (tarots) · Mantles (vouchers) · Veils (stakes) · Light (shop currency) · Devotion, Insight, Plenty, Harmony (Watch currencies) · Dials: Truth, Joy, Progress, Redemption, Agency · Collapse (loss meter) · The Records (persistent trained people model)
+Dispensation (ante; eight slots per run, two fixed and six chosen by the people, see doc 02) · Era: The Revelation, The Kingdom, The Faith Crisis (blinds; The Faith Crisis carries a Trial, the boss modifier) · Revelation (card phase) · Watch (sim phase) · Witness × Glory (chips × mult) · Godhood Powers (jokers) · Keys (planets) · Tablets (tarots) · Mantles (vouchers) · Veils (stakes) · Light (shop currency) · Devotion, Insight, Plenty, Harmony (Watch currencies) · Dials: Truth, Joy, Progress, Redemption, Agency · Collapse (loss meter) · The Records (persistent trained people model)
 
 ## Planned code layout (not created yet)
 
